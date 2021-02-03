@@ -1,0 +1,1331 @@
+Archetype 0 
+ Dread Return
+ Lotus Petal
+ Cabal Therapy
+ Narcomoeba
+ Bridge from Below
+ Golgari Grave-Troll
+ Ichorid
+ Golgari Thug
+ Stinkweed Imp
+ Lion's Eye Diamond
+ Ashen Rider
+ Gemstone Mine
+ Cephalid Coliseum
+ City of Brass
+ Faithless Looting
+ Hogaak, Arisen Necropolis 
+
+Archetype 1 
+ Krosan Grip
+ Expedition Map
+ Ugin, the Spirit Dragon
+ Warping Wail
+ Ancient Stirrings
+ Faerie Macabre
+ Veil of Summer
+ Maze of Ith
+ Boompile
+ Eye of Ugin
+ Pithing Needle
+ Emrakul, the Aeons Torn
+ Ulamog, the Ceaseless Hunger
+ Vesuva
+ Cloudpost
+ Glimmerpost 
+
+Archetype 2 
+ Mountain
+ Pyroblast
+ Monastery Swiftspear
+ Lightning Bolt
+ Red Elemental Blast
+ Price of Progress
+ Chain Lightning
+ Fireblast
+ Smash to Smithereens
+ Eidolon of the Great Revel
+ Sulfuric Vortex
+ Gamble
+ Goblin Guide
+ Lava Spike
+ Rift Bolt
+ Exquisite Firecraft 
+
+Archetype 3 
+ Wear / Tear
+ Brain Freeze
+ Underworld Breach
+ Scalding Tarn
+ Volcanic Island
+ Snow-Covered Mountain
+ Orim's Chant
+ Preordain
+ Lion's Eye Diamond
+ Lotus Petal
+ Monastery Mentor
+ Flooded Strand
+ Ponder
+ Tundra
+ Snow-Covered Plains
+ Spell Pierce 
+
+Archetype 4 
+ Wooded Foothills
+ Taiga
+ Klothys, God of Destiny
+ Crucible of Worlds
+ Chandra, Awakened Inferno
+ Imperial Recruiter
+ Veil of Summer
+ Barbarian Ring
+ Sentinel Tower
+ Forest
+ Snow-Covered Forest
+ Meteor Golem
+ Blast Zone
+ Return to Nature
+ Prismatic Vista
+ Sphere of Resistance 
+
+Archetype 5 
+ Plague Engineer
+ Swords to Plowshares
+ Scrubland
+ Wasteland
+ Marsh Flats
+ Flooded Strand
+ Tundra
+ Underground Sea
+ Baleful Strix
+ Karakas
+ Polluted Delta
+ Peacekeeper
+ Meddling Mage
+ Brainstorm
+ Force of Will
+ Teferi, Time Raveler 
+
+Archetype 6 
+ Waterlogged Grove
+ Dread of Night
+ Krosan Grip
+ Academy Ruins
+ Engineered Explosives
+ Dream Halls
+ Village Rites
+ Tormod's Crypt
+ Perilous Voyage
+ Liliana, Dreadhorde General
+ Nevinyrral's Disk
+ Phyrexian Revoker
+ Walking Ballista
+ Horizon Canopy
+ Intuition
+ Field of the Dead 
+
+Archetype 7 
+ Karakas
+ Cavern of Souls
+ Bojuka Bog
+ Emrakul, the Aeons Torn
+ Glacial Chasm
+ Vesuva
+ Glimmerpost
+ Cloudpost
+ Ulamog, the Ceaseless Hunger
+ Crop Rotation
+ Pithing Needle
+ Eye of Ugin
+ Primeval Titan
+ Once Upon a Time
+ Surgical Extraction
+ Maze of Ith 
+
+Archetype 8 
+ Entomb
+ Griselbrand
+ Animate Dead
+ Faithless Looting
+ Badlands
+ Reanimate
+ Exhume
+ Lotus Petal
+ Thoughtseize
+ Dark Ritual
+ Unmask
+ Polluted Delta
+ Ashen Rider
+ Iona, Shield of Emeria
+ Chancellor of the Annex
+ Bloodstained Mire 
+
+Archetype 9 
+ Island
+ Mutavault
+ Chalice of the Void
+ True-Name Nemesis
+ Umezawa's Jitte
+ Silvergill Adept
+ Master of the Pearl Trident
+ Aether Vial
+ Force of Will
+ Dismember
+ Cavern of Souls
+ Lord of Atlantis
+ Merfolk Trickster
+ Thassa's Oracle
+ Paradigm Shift
+ Brazen Borrower 
+
+Archetype 10 
+ Plague Engineer
+ Liliana of the Veil
+ Liliana, the Last Hope
+ Swamp
+ Dark Confidant
+ Liliana's Triumph
+ Thoughtseize
+ Leyline of the Void
+ Inquisition of Kozilek
+ Hymn to Tourach
+ Snow-Covered Swamp
+ Marsh Flats
+ Scrubland
+ Extirpate
+ Eliminate
+ Bayou 
+
+Archetype 11 
+ Ashiok, Dream Render
+ Ensnaring Bridge
+ Dark Ritual
+ Urborg, Tomb of Yawgmoth
+ Pithing Needle
+ Castle Locthwain
+ Wasteland
+ Smallpox
+ Engineered Plague
+ Mishra's Factory
+ Innocent Blood
+ Hymn to Tourach
+ Tormod's Crypt
+ Toxic Deluge
+ Maze of Ith
+ Bojuka Bog 
+
+Archetype 12 
+ Ancient Tomb
+ Show and Tell
+ Emrakul, the Aeons Torn
+ Volcanic Island
+ Force of Will
+ Brainstorm
+ Ponder
+ Intuition
+ Scalding Tarn
+ Lotus Petal
+ Preordain
+ City of Traitors
+ Griselbrand
+ Sneak Attack
+ Polluted Delta
+ Flusterstorm 
+
+Archetype 13 
+ Plague Engineer
+ Abrupt Decay
+ Tropical Island
+ Bayou
+ Snow-Covered Swamp
+ Misty Rainforest
+ Underground Sea
+ Oko, Thief of Crowns
+ Snow-Covered Island
+ Brainstorm
+ Snow-Covered Forest
+ Leovold, Emissary of Trest
+ Force of Will
+ Verdant Catacombs
+ Uro, Titan of Nature's Wrath
+ Polluted Delta 
+
+Archetype 14 
+ Phyrexian Revoker
+ Karn, Scion of Urza
+ Lodestone Golem
+ Stonecoil Serpent
+ Wasteland
+ Arcbound Ravager
+ Mishra's Factory
+ Chalice of the Void
+ Thorn of Amethyst
+ Walking Ballista
+ Ancient Tomb
+ Umezawa's Jitte
+ City of Traitors
+ Mox Opal
+ Karakas
+ Leyline of the Void 
+
+Archetype 15 
+ Plains
+ Sanctum Prelate
+ Umezawa's Jitte
+ Thalia, Guardian of Thraben
+ Stoneforge Mystic
+ Mother of Runes
+ Sword of Fire and Ice
+ Swords to Plowshares
+ Karakas
+ Wasteland
+ Batterskull
+ Rest in Peace
+ Aether Vial
+ Rishadan Port
+ Flickerwisp
+ Recruiter of the Guard 
+
+Archetype 16 
+ Walking Ballista
+ Ensnaring Bridge
+ Karn, the Great Creator
+ Mycosynth Lattice
+ Lion's Eye Diamond
+ Tormod's Crypt
+ Ancient Tomb
+ Liquimetal Coating
+ Sorcerous Spyglass
+ Chalice of the Void
+ City of Traitors
+ Mox Opal
+ Lotus Petal
+ Mishra's Bauble
+ Karakas
+ Urza's Bauble 
+
+Archetype 17 
+ Goblin Trashmaster
+ Mountain
+ Pyrokinesis
+ Goblin Ringleader
+ Goblin Matron
+ Cavern of Souls
+ Goblin Cratermaker
+ Goblin Chainwhirler
+ Goblin Lackey
+ Goblin Warchief
+ Gempalm Incinerator
+ Aether Vial
+ Wasteland
+ Skirk Prospector
+ Badlands
+ Rishadan Port 
+
+Archetype 18 
+ Tundra
+ Batterskull
+ Stoneforge Mystic
+ Umezawa's Jitte
+ Ethersworn Canonist
+ Containment Priest
+ Flooded Strand
+ Lavinia, Azorius Renegade
+ Swords to Plowshares
+ True-Name Nemesis
+ Vendilion Clique
+ Brainstorm
+ Brazen Borrower
+ Force of Will
+ Teferi, Time Raveler
+ Ponder 
+
+Archetype 19 
+ Fiery Islet
+ Street Wraith
+ Iona, Shield of Emeria
+ Chain of Vapor
+ Shaman of the Pack
+ Flame-Kin Zealot
+ Fiend Artisan
+ Insolent Neonate
+ Driven / Despair
+ Ingot Chewer
+ Noxious Grasp
+ Sorcerous Spyglass
+ Surgical Extraction
+ Metallic Mimic
+ Shenanigans
+ Nicol Bolas, Planeswalker 
+
+Archetype 20 
+ Pyroblast
+ Lightning Bolt
+ Volcanic Island
+ Daze
+ Delver of Secrets
+ Force of Negation
+ Dreadhorde Arcanist
+ Brainstorm
+ Force of Will
+ Ponder
+ Abrade
+ Scalding Tarn
+ Wasteland
+ Preordain
+ Surgical Extraction
+ Brazen Borrower 
+
+Archetype 21 
+ Sulfur Elemental
+ Vilis, Broker of Blood
+ Scab-Clan Berserker
+ Magus of the Moon
+ Platinum Emperion
+ Show and Tell
+ Chandra, Heart of Fire
+ Island
+ Embercleave
+ Underground Sea
+ Terastodon
+ Doom Whisperer
+ Stronghold Gambit
+ Inquisition of Kozilek
+ Night of Souls' Betrayal
+ Nicol Bolas, Planeswalker 
+
+Archetype 22 
+ Dead of Winter
+ Arcum's Astrolabe
+ Swords to Plowshares
+ Abrupt Decay
+ Force of Negation
+ Oko, Thief of Crowns
+ Snow-Covered Swamp
+ Underground Sea
+ Tropical Island
+ Veil of Summer
+ Snow-Covered Island
+ Force of Will
+ Brainstorm
+ Misty Rainforest
+ Uro, Titan of Nature's Wrath
+ Polluted Delta 
+
+Archetype 23 
+ Oblivion Sower
+ Noxious Revival
+ To the Slaughter
+ Kaya's Guile
+ Terror of the Peaks
+ Kambal, Consul of Allocation
+ Kaya, Orzhov Usurper
+ Marsh Flats
+ Night of Souls' Betrayal
+ Nicol Bolas, Planeswalker
+ Nicol Bolas, God-Pharaoh
+ Nicol Bolas, Dragon-God
+ Cruel Reality
+ Felidar Retreat
+ Skullcrack
+ Yixlid Jailer 
+
+Archetype 24 
+ Veil of Summer
+ Arcum's Astrolabe
+ Snow-Covered Island
+ Swords to Plowshares
+ Brainstorm
+ Force of Will
+ Flooded Strand
+ Snow-Covered Plains
+ Terminus
+ Tundra
+ Pyroblast
+ Ponder
+ Misty Rainforest
+ Force of Negation
+ Oko, Thief of Crowns
+ Tropical Island 
+
+Archetype 25 
+ Forest
+ Swamp
+ Island
+ Eternal Witness
+ Tropical Island
+ Abrupt Decay
+ Verdant Catacombs
+ Misty Rainforest
+ Bayou
+ Surgical Extraction
+ Veil of Summer
+ Barrin, Tolarian Archmage
+ Force of Will
+ Plague Engineer
+ Mirri's Guile
+ Savannah 
+
+Archetype 26 
+ Snow-Covered Island
+ Teferi, Time Raveler
+ Brainstorm
+ Swords to Plowshares
+ Silence
+ Prismatic Vista
+ Force of Will
+ Force of Negation
+ Tropical Island
+ Misty Rainforest
+ Snow-Covered Forest
+ Food Chain
+ Walking Ballista
+ Snow-Covered Plains
+ Misthollow Griffin
+ Manipulate Fate 
+
+Archetype 27 
+ Plateau
+ Skyclave Apparition
+ Pyroblast
+ Sevinne's Reclamation
+ Red Elemental Blast
+ Taiga
+ Gut Shot
+ Stormwing Entity
+ Deafening Silence
+ Ethereal Forager
+ Flagstones of Trokair
+ Temple Garden
+ Scute Swarm
+ Yorion, Sky Nomad
+ Yasharn, Implacable Earth
+ Surgical Extraction 
+
+Archetype 28 
+ Thespian's Stage
+ Abrupt Decay
+ Sylvan Safekeeper
+ Dark Depths
+ Bojuka Bog
+ Sejiri Steppe
+ Crop Rotation
+ Vampire Hexmage
+ Urborg, Tomb of Yawgmoth
+ Pithing Needle
+ Thoughtseize
+ Karakas
+ Surgical Extraction
+ Bayou
+ Verdant Catacombs
+ Elvish Reclaimer 
+
+Archetype 29 
+ Natural Order
+ Dryad Arbor
+ Green Sun's Zenith
+ Gaea's Cradle
+ Craterhoof Behemoth
+ Glimpse of Nature
+ Quirion Ranger
+ Wirewood Symbiote
+ Heritage Druid
+ Elvish Visionary
+ Windswept Heath
+ Birchlore Rangers
+ Bayou
+ Thoughtseize
+ Wooded Foothills
+ Scavenging Ooze 
+
+Archetype 30 
+ Qasali Pridemage
+ Phyrexian Tower
+ Arena Rector
+ Academy Rector
+ Thoughtseize
+ Veteran Explorer
+ Living Wish
+ Savannah
+ Cavern of Souls
+ Windswept Heath
+ Bayou
+ Mother of Runes
+ Cabal Therapy
+ Forest
+ Ugin, the Spirit Dragon
+ Scrubland 
+
+Archetype 31 
+ Cabal Therapy
+ Hogaak, Arisen Necropolis
+ Stitcher's Supplier
+ Bloodghast
+ Gravecrawler
+ Force of Vigor
+ Vengevine
+ Bridge from Below
+ Altar of Dementia
+ Bayou
+ Verdant Catacombs
+ Leyline of the Void
+ Polluted Delta
+ Abrupt Decay
+ Swamp
+ Assassin's Trophy 
+
+Archetype 32 
+ Ninja of the Deep Hours
+ Spellstutter Sprite
+ Scab-Clan Berserker
+ Magus of the Moon
+ Chaos Warp
+ Faerie Macabre
+ Goblin Rabblemaster
+ Cavern of Souls
+ Legion Warboss
+ Battlefield Forge
+ Winota, Joiner of Forces
+ Angrath's Marauders
+ Phyrexian Revoker
+ Ancestral Vision
+ Thalia, Guardian of Thraben
+ Thought-Knot Seer 
+
+Archetype 33 
+ Thassa's Oracle
+ Ponder
+ Brainstorm
+ Force of Will
+ Lotus Petal
+ Underground Sea
+ Doomsday
+ Dark Ritual
+ Preordain
+ Daze
+ Street Wraith
+ Edge of Autumn
+ Cavern of Souls
+ Polluted Delta
+ Lion's Eye Diamond
+ Flusterstorm 
+
+Archetype 34 
+ Force of Will
+ Crop Rotation
+ Veil of Summer
+ Noble Hierarch
+ Sylvan Library
+ Tropical Island
+ Berserk
+ Inkmoth Nexus
+ Brainstorm
+ Daze
+ Pendelhaven
+ Invigorate
+ Vines of Vastwood
+ Blighted Agent
+ Glistener Elf
+ Spell Pierce 
+
+Archetype 35 
+ Fatal Push
+ Underground Sea
+ Plague Engineer
+ Thoughtseize
+ Polluted Delta
+ Brainstorm
+ Force of Will
+ Ponder
+ Brazen Borrower
+ Daze
+ Force of Negation
+ Surgical Extraction
+ Yuriko, the Tiger's Shadow
+ Gurmag Angler
+ Ingenious Infiltrator
+ Ornithopter 
+
+Archetype 36 
+ Toxic Deluge
+ Pernicious Deed
+ Roiling Vortex
+ Cabal Therapy
+ Eternal Witness
+ Thoughtseize
+ Liliana's Triumph
+ Veteran Explorer
+ Faerie Macabre
+ Collective Brutality
+ Phyrexian Tower
+ Of One Mind
+ Oath of Ghouls
+ Sunbaked Canyon
+ Meren of Clan Nel Toth
+ Assassin's Trophy 
+
+Archetype 37 
+ Goblin Rabblemaster
+ Chrome Mox
+ Legion Warboss
+ Magus of the Moon
+ Blood Moon
+ Anje's Ravager
+ Ancient Tomb
+ Pia and Kiran Nalaar
+ Shatterskull Smashing
+ City of Traitors
+ Shattering Spree
+ Sorcerous Spyglass
+ Electrickery
+ Simian Spirit Guide
+ Engineered Explosives
+ Scroll of Fate 
+
+Archetype 38 
+ Mox Diamond
+ Life from the Loam
+ Blast Zone
+ Maze of Ith
+ Wasteland
+ Karakas
+ The Tabernacle at Pendrell Vale
+ Sylvan Library
+ Forest
+ Field of the Dead
+ Bojuka Bog
+ Windswept Heath
+ Dark Depths
+ Thespian's Stage
+ Force of Vigor
+ Crop Rotation 
+
+Archetype 39 
+ Dead / Gone
+ Grim Lavamancer
+ Goblin Rabblemaster
+ Magus of the Moon
+ Sea Gate Restoration
+ Chrome Mox
+ Magmatic Sinkhole
+ Goblin Charbelcher
+ Bonecrusher Giant
+ Jwari Disruption
+ Pelakka Predation
+ Robber of the Rich
+ Snow-Covered Mountain
+ Neheb, Dreadhorde Champion
+ Sudden Demise
+ Nexus of Fate 
+
+Archetype 40 
+ Pyroblast
+ Volcanic Island
+ Badlands
+ Scalding Tarn
+ Underground Sea
+ Kolaghan's Command
+ Lightning Bolt
+ Red Elemental Blast
+ Fatal Push
+ Plague Engineer
+ Nihil Spellbomb
+ Polluted Delta
+ Force of Will
+ Thoughtseize
+ Bloodstained Mire
+ Ponder 
+
+Archetype 41 
+ Echo of Eons
+ Tendrils of Agony
+ Empty the Warrens
+ Burning Wish
+ Chain of Vapor
+ Grapeshot
+ Rite of Flame
+ Badlands
+ Veil of Summer
+ Bloodstained Mire
+ Lotus Petal
+ Defense Grid
+ Lion's Eye Diamond
+ Wishclaw Talisman
+ Chrome Mox
+ Polluted Delta 
+
+Archetype 42 
+ Bitterblossom
+ Conspicuous Snoop
+ Boggart Harbinger
+ Umezawa's Jitte
+ Thieves' Guild Enforcer
+ Snow-Covered Swamp
+ Cavern of Souls
+ Unearth
+ True-Name Nemesis
+ Nighthawk Scavenger
+ Soaring Thought-Thief
+ Thorn of Amethyst
+ Jace, the Mind Sculptor
+ Inquisition of Kozilek
+ Anowon, the Ruin Thief
+ Thada Adel, Acquisitor 
+
+Archetype 43 
+ Silent Clearing
+ Orzhov Pontiff
+ Sword of Light and Shadow
+ Warping Wail
+ Ratchet Bomb
+ Umezawa's Jitte
+ Lingering Souls
+ Chalice of the Void
+ Batterskull
+ Mirran Crusader
+ Celestial Purge
+ Snow-Covered Plains
+ Grand Abolisher
+ Oblivion Ring
+ Mother of Runes
+ Wild Nacatl 
+
+Archetype 44 
+ Dark Petition
+ Hurkyl's Recall
+ Chain of Vapor
+ Echoing Truth
+ Leyline of Sanctity
+ Ground Seal
+ Chromatic Star
+ Nihil Spellbomb
+ Ancient Den
+ Shenanigans
+ Heliod, Sun-Crowned
+ Surgical Extraction
+ Xantid Swarm
+ Cabal Ritual
+ Lotus Petal
+ Nicol Bolas, God-Pharaoh 
+
+Archetype 45 
+ Thorn of Amethyst
+ Cavern of Souls
+ Once Upon a Time
+ Ancient Tomb
+ Plague Engineer
+ Chalice of the Void
+ Sorcerous Spyglass
+ Wasteland
+ Leyline of the Void
+ Karakas
+ Reality Smasher
+ Thought-Knot Seer
+ Eldrazi Mimic
+ Endless One
+ Eldrazi Temple
+ Matter Reshaper 
+
+Archetype 46 
+ Stifle
+ Snow-Covered Island
+ Uro, Titan of Nature's Wrath
+ Pyroblast
+ Tropical Island
+ Misty Rainforest
+ Sylvan Library
+ Wasteland
+ Oko, Thief of Crowns
+ Volcanic Island
+ Scalding Tarn
+ Force of Will
+ Surgical Extraction
+ Snow-Covered Forest
+ Brainstorm
+ Lightning Bolt 
+
+Archetype 47 
+ Tropical Island
+ Oko, Thief of Crowns
+ Delver of Secrets
+ Daze
+ Force of Will
+ Lightning Bolt
+ Wasteland
+ Ponder
+ Brainstorm
+ Volcanic Island
+ Force of Negation
+ Pyroblast
+ Sylvan Library
+ Surgical Extraction
+ Chain Lightning
+ Polluted Delta 
+
+Archetype 48 
+ Helm of Obedience
+ Utopia Sprawl
+ Serra's Sanctum
+ Argothian Enchantress
+ Solitary Confinement
+ Abundant Growth
+ On Thin Ice
+ Destiny Spinner
+ Seal of Primordium
+ Enchantress's Presence
+ Wild Growth
+ Elephant Grass
+ Windswept Heath
+ Sterling Grove
+ Emrakul, the Aeons Torn
+ Oblivion Ring 
+
+Archetype 49 
+ Pact of Negation
+ Chrome Mox
+ Elvish Spirit Guide
+ Cabal Therapy
+ Agadeem's Awakening
+ Balustrade Spy
+ Thassa's Oracle
+ Simian Spirit Guide
+ Undercity Informer
+ Narcomoeba
+ Dread Return
+ Cabal Ritual
+ Lotus Petal
+ Dark Ritual
+ Nature's Claim
+ Chancellor of the Annex 
+
+Archetype 50 
+ Engineered Explosives
+ Soul-Guide Lantern
+ Lurrus of the Dream-Den
+ Sevinne's Reclamation
+ Mishra's Bauble
+ Seal of Cleansing
+ Predict
+ Tormod's Crypt
+ Karakas
+ Counterbalance
+ Agent of Treachery
+ Red Elemental Blast
+ Daretti, Ingenious Iconoclast
+ Unmoored Ego
+ Goblin Cratermaker
+ Meddling Mage 
+
+Archetype 51 
+ Kaya, Orzhov Usurper
+ Opposition Agent
+ Ancient Grudge
+ Nature's Chant
+ Searing Blaze
+ Minamo, School at Water's Edge
+ Chains of Mephistopheles
+ Faerie Macabre
+ Scrubland
+ Swamp
+ Kaya, Ghost Assassin
+ Ghost Quarter
+ Mesmeric Fiend
+ Wasteland Strangler
+ Skullcrack
+ Grim Lavamancer 
+
+Archetype 52 
+ Null Rod
+ Buried Ruin
+ Once Upon a Time
+ Snow-Covered Forest
+ Breeding Pool
+ Skullcrack
+ Nicol Bolas, Planeswalker
+ Nicol Bolas, God-Pharaoh
+ Nicol Bolas, Dragon-God
+ Cruel Reality
+ Stubborn Denial
+ Grand Abolisher
+ Terror of the Peaks
+ Tithe
+ Shambling Shell
+ Notion Thief 
+
+Archetype 53 
+ Disenchant
+ Swords to Plowshares
+ Plains
+ Island
+ Tundra
+ Spell Pierce
+ Monastery Mentor
+ Flooded Strand
+ Teferi, Time Raveler
+ Back to Basics
+ Snapcaster Mage
+ Ponder
+ Force of Will
+ Brainstorm
+ Jace, the Mind Sculptor
+ Council's Judgment 
+
+Archetype 54 
+ Thassa's Oracle
+ Aether Vial
+ Force of Will
+ Cabal Therapy
+ Nomads en-Kor
+ Cephalid Illusionist
+ Narcomoeba
+ Dread Return
+ Shuko
+ Daze
+ Underground Sea
+ Polluted Delta
+ Flooded Strand
+ Stoneforge Mystic
+ Recruiter of the Guard
+ Batterskull 
+
+Archetype 55 
+ Veil of Summer
+ Emrakul, the Aeons Torn
+ Show and Tell
+ Omniscience
+ Intuition
+ Cunning Wish
+ Force of Will
+ Ponder
+ Brainstorm
+ Snow-Covered Island
+ Misty Rainforest
+ Tropical Island
+ Carpet of Flowers
+ Preordain
+ Shared Summons
+ Impulse 
+
+Archetype 56 
+ Sanctum Prelate
+ Meddling Mage
+ Deputy of Detention
+ Mother of Runes
+ Palace Jailer
+ Aether Vial
+ Cavern of Souls
+ Noble Hierarch
+ Horizon Canopy
+ Thalia, Guardian of Thraben
+ Karakas
+ Wasteland
+ Ancient Ziggurat
+ Unclaimed Territory
+ Thalia's Lieutenant
+ Champion of the Parish 
+
+Archetype 57 
+ Swords to Plowshares
+ Tundra
+ Snow-Covered Plains
+ Teferi, Time Raveler
+ Karakas
+ Meddling Mage
+ Venser, Shaper Savant
+ Eladamri's Call
+ Boseiju, Who Shelters All
+ Restoration Angel
+ Rest in Peace
+ Into the North
+ Aven Mindcensor
+ Echoing Truth
+ Sublime Epiphany
+ Prismatic Vista 
+
+Archetype 58 
+ Pyroblast
+ Punishing Fire
+ Grove of the Burnwillows
+ Dack Fayden
+ Drown in the Loch
+ Badlands
+ Lightning Bolt
+ Volcanic Island
+ Toxic Deluge
+ Snapcaster Mage
+ Notion Thief
+ Scalding Tarn
+ Cling to Dust
+ Pernicious Deed
+ Surgical Extraction
+ Jace, the Mind Sculptor 
+
+Archetype 59 
+ Stronghold Gambit
+ Trinket Mage
+ Fire / Ice
+ Chill
+ Force of Despair
+ Absolute Law
+ Echoing Truth
+ Once Upon a Time
+ Thrun, the Last Troll
+ Underground Sea
+ Faerie Macabre
+ Deep Analysis
+ Liliana's Triumph
+ Clip Wings
+ Vito, Thorn of the Dusk Rose
+ Tormod's Crypt 
+
+Archetype 60 
+ Reclamation Sage
+ Savannah
+ Wildborn Preserver
+ Veil of Summer
+ Llanowar Elves
+ Overgrown Tomb
+ Fyndhorn Elves
+ Regal Force
+ Pendelhaven
+ Oko, Thief of Crowns
+ Force of Vigor
+ Surgical Extraction
+ Sorcerous Spyglass
+ Tropical Island
+ Faerie Macabre
+ Opposition 
+
+Archetype 61 
+ Ensnaring Bridge
+ Trinisphere
+ Mountain
+ Sorcerous Spyglass
+ City of Traitors
+ Ancient Tomb
+ Liquimetal Coating
+ Simian Spirit Guide
+ Mycosynth Lattice
+ Karn, the Great Creator
+ Chalice of the Void
+ Chandra, Torch of Defiance
+ Bonecrusher Giant
+ Tormod's Crypt
+ Fiery Confluence
+ Chandra, Awakened Inferno 
+
+Archetype 62 
+ Veil of Summer
+ Infernal Tutor
+ Duress
+ Tendrils of Agony
+ Flusterstorm
+ Underground Sea
+ Polluted Delta
+ Past in Flames
+ Dark Ritual
+ Preordain
+ Thoughtseize
+ Cabal Ritual
+ Lion's Eye Diamond
+ Lotus Petal
+ Brainstorm
+ Abrupt Decay 
+
+Archetype 63 
+ Grindstone
+ Painter's Servant
+ Ensnaring Bridge
+ Goblin Engineer
+ Goblin Welder
+ Snow-Covered Mountain
+ Red Elemental Blast
+ Pyroblast
+ Lotus Petal
+ Great Furnace
+ Arcum's Astrolabe
+ Tormod's Crypt
+ Ancient Tomb
+ Pithing Needle
+ Abrade
+ Karn, the Great Creator 
+
+Archetype 64 
+ Wilt
+ Misdirection
+ Engineered Explosives
+ Counterbalance
+ Uro, Titan of Nature's Wrath
+ Dismember
+ Flame Slash
+ Damnation
+ Phyrexian Revoker
+ Tin Street Hooligan
+ Back to Nature
+ Oko, Thief of Crowns
+ Syphon Sliver
+ Ill-Gotten Gains
+ Opposition
+ Veil of Summer 
+
+Archetype 65 
+ Thought-Knot Seer
+ Eldrazi Temple
+ Eye of Ugin
+ Ratchet Bomb
+ Karakas
+ Walking Ballista
+ Leyline of the Void
+ Sorcerous Spyglass
+ Warping Wail
+ Ancient Tomb
+ Reality Smasher
+ Chalice of the Void
+ City of Traitors
+ Dismember
+ Matter Reshaper
+ Blast Zone 
+
+Archetype 66 
+ Mountain
+ Abrade
+ Seething Song
+ Sneak Attack
+ Arclight Phoenix
+ Blightsteel Colossus
+ Defense Grid
+ Through the Breach
+ Bedlam Reveler
+ Tormod's Crypt
+ Faithless Looting
+ Emrakul, the Aeons Torn
+ Lava Dart
+ Soul-Scar Mage
+ Ravenous Trap
+ Manamorphose 
+
+Archetype 67 
+ Hullbreacher
+ Relic of Progenitus
+ Force of Negation
+ Blue Elemental Blast
+ Narset, Parter of Veils
+ Grafdigger's Cage
+ Island
+ Surgical Extraction
+ Standstill
+ Pithing Needle
+ Shark Typhoon
+ Torpor Orb
+ Flusterstorm
+ Submerge
+ Snow-Covered Island
+ Engineered Explosives 
+
+Archetype 68 
+ Zealous Persecution
+ Vault of Whispers
+ Dead Weight
+ Meekstone
+ Stormchaser Mage
+ Tsabo's Web
+ Natural State
+ Force of Negation
+ Surgical Extraction
+ Mystical Dispute
+ Oko, Thief of Crowns
+ Cruel Reality
+ Stubborn Denial
+ Breeding Pool
+ Notion Thief
+ Nicol Bolas, God-Pharaoh 
+
+Archetype 69 
+ Abrupt Decay
+ Thoughtseize
+ Bayou
+ Oko, Thief of Crowns
+ Plague Engineer
+ Underground Sea
+ Tropical Island
+ Polluted Delta
+ Veil of Summer
+ Brainstorm
+ Ponder
+ Force of Will
+ Misty Rainforest
+ Fatal Push
+ Force of Negation
+ Wasteland 
+
+Archetype 70 
+ Basilisk Collar
+ Darkblast
+ Spatial Contortion
+ Fae of Wishes
+ Spell Queller
+ Gemrazer
+ The Royal Scions
+ Drogskol Captain
+ Supreme Phantom
+ Mausoleum Wanderer
+ Surgical Extraction
+ Izzet Staticaster
+ Moorland Haunt
+ Unsettled Mariner
+ Rattlechains
+ Radha, Heart of Keld 
+
+Archetype 71 
+ Elvish Mystic
+ Choke
+ Nissa, Vital Force
+ Llanowar Elves
+ Reclamation Sage
+ Staff of Domination
+ Blood Crypt
+ Undiscovered Paradise
+ Pendelhaven
+ Godless Shrine
+ Shifting Ceratops
+ Fyndhorn Elves
+ Relic of Progenitus
+ Carpet of Flowers
+ Forest
+ Savannah 
+
+Archetype 72 
+ Chalice of the Void
+ Thalia, Heretic Cathar
+ Containment Priest
+ Karakas
+ Ancient Tomb
+ Mox Diamond
+ Oblivion Ring
+ Thalia, Guardian of Thraben
+ Snow-Covered Plains
+ Cavern of Souls
+ Walking Ballista
+ Thought-Knot Seer
+ Eldrazi Displacer
+ Palace Jailer
+ Rest in Peace
+ Disenchant 
+
+Archetype 73 
+ Green Sun's Zenith
+ Dryad Arbor
+ Collector Ouphe
+ Scavenging Ooze
+ Savannah
+ Wasteland
+ Sylvan Library
+ Swords to Plowshares
+ Knight of the Reliquary
+ Windswept Heath
+ Karakas
+ Noble Hierarch
+ Knight of Autumn
+ Ramunap Excavator
+ Forest
+ Questing Beast 

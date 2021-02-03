@@ -1,0 +1,1331 @@
+Archetype 0 
+ 0.041*Dread Return
+ 0.041*Lotus Petal
+ 0.040*Cabal Therapy
+ 0.039*Narcomoeba
+ 0.039*Bridge from Below
+ 0.038*Golgari Grave-Troll
+ 0.038*Ichorid
+ 0.038*Golgari Thug
+ 0.038*Stinkweed Imp
+ 0.038*Lion's Eye Diamond
+ 0.037*Ashen Rider
+ 0.037*Gemstone Mine
+ 0.036*Cephalid Coliseum
+ 0.035*City of Brass
+ 0.035*Faithless Looting
+ 0.034*Hogaak, Arisen Necropolis 
+
+Archetype 1 
+ 0.126*Krosan Grip
+ 0.088*Expedition Map
+ 0.085*Ugin, the Spirit Dragon
+ 0.071*Warping Wail
+ 0.064*Ancient Stirrings
+ 0.054*Faerie Macabre
+ 0.044*Veil of Summer
+ 0.037*Maze of Ith
+ 0.036*Boompile
+ 0.031*Eye of Ugin
+ 0.030*Pithing Needle
+ 0.029*Emrakul, the Aeons Torn
+ 0.029*Ulamog, the Ceaseless Hunger
+ 0.027*Vesuva
+ 0.027*Cloudpost
+ 0.027*Glimmerpost 
+
+Archetype 2 
+ 0.072*Mountain
+ 0.061*Pyroblast
+ 0.050*Monastery Swiftspear
+ 0.050*Lightning Bolt
+ 0.049*Red Elemental Blast
+ 0.046*Price of Progress
+ 0.046*Chain Lightning
+ 0.045*Fireblast
+ 0.044*Smash to Smithereens
+ 0.042*Eidolon of the Great Revel
+ 0.040*Sulfuric Vortex
+ 0.039*Gamble
+ 0.037*Goblin Guide
+ 0.035*Lava Spike
+ 0.033*Rift Bolt
+ 0.030*Exquisite Firecraft 
+
+Archetype 3 
+ 0.074*Wear / Tear
+ 0.062*Brain Freeze
+ 0.059*Underworld Breach
+ 0.053*Scalding Tarn
+ 0.045*Volcanic Island
+ 0.043*Snow-Covered Mountain
+ 0.042*Orim's Chant
+ 0.041*Preordain
+ 0.039*Lion's Eye Diamond
+ 0.037*Lotus Petal
+ 0.036*Monastery Mentor
+ 0.035*Flooded Strand
+ 0.034*Ponder
+ 0.033*Tundra
+ 0.033*Snow-Covered Plains
+ 0.030*Spell Pierce 
+
+Archetype 4 
+ 0.157*Wooded Foothills
+ 0.152*Taiga
+ 0.099*Klothys, God of Destiny
+ 0.095*Crucible of Worlds
+ 0.082*Chandra, Awakened Inferno
+ 0.051*Imperial Recruiter
+ 0.051*Veil of Summer
+ 0.048*Barbarian Ring
+ 0.045*Sentinel Tower
+ 0.036*Forest
+ 0.025*Snow-Covered Forest
+ 0.020*Meteor Golem
+ 0.020*Blast Zone
+ 0.016*Return to Nature
+ 0.013*Prismatic Vista
+ 0.011*Sphere of Resistance 
+
+Archetype 5 
+ 0.057*Plague Engineer
+ 0.046*Swords to Plowshares
+ 0.046*Scrubland
+ 0.037*Wasteland
+ 0.036*Marsh Flats
+ 0.028*Flooded Strand
+ 0.028*Tundra
+ 0.028*Underground Sea
+ 0.027*Baleful Strix
+ 0.027*Karakas
+ 0.026*Polluted Delta
+ 0.026*Peacekeeper
+ 0.025*Meddling Mage
+ 0.024*Brainstorm
+ 0.024*Force of Will
+ 0.024*Teferi, Time Raveler 
+
+Archetype 6 
+ 0.267*Waterlogged Grove
+ 0.136*Dread of Night
+ 0.088*Krosan Grip
+ 0.087*Academy Ruins
+ 0.081*Engineered Explosives
+ 0.040*Dream Halls
+ 0.038*Village Rites
+ 0.030*Tormod's Crypt
+ 0.027*Perilous Voyage
+ 0.022*Liliana, Dreadhorde General
+ 0.020*Nevinyrral's Disk
+ 0.011*Phyrexian Revoker
+ 0.011*Walking Ballista
+ 0.009*Horizon Canopy
+ 0.008*Intuition
+ 0.000*Field of the Dead 
+
+Archetype 7 
+ 0.037*Karakas
+ 0.031*Cavern of Souls
+ 0.029*Bojuka Bog
+ 0.029*Emrakul, the Aeons Torn
+ 0.027*Glacial Chasm
+ 0.026*Vesuva
+ 0.026*Glimmerpost
+ 0.026*Cloudpost
+ 0.025*Ulamog, the Ceaseless Hunger
+ 0.025*Crop Rotation
+ 0.025*Pithing Needle
+ 0.024*Eye of Ugin
+ 0.023*Primeval Titan
+ 0.023*Once Upon a Time
+ 0.022*Surgical Extraction
+ 0.021*Maze of Ith 
+
+Archetype 8 
+ 0.049*Entomb
+ 0.042*Griselbrand
+ 0.040*Animate Dead
+ 0.039*Faithless Looting
+ 0.037*Badlands
+ 0.036*Reanimate
+ 0.034*Exhume
+ 0.030*Lotus Petal
+ 0.030*Thoughtseize
+ 0.029*Dark Ritual
+ 0.027*Unmask
+ 0.026*Polluted Delta
+ 0.026*Ashen Rider
+ 0.025*Iona, Shield of Emeria
+ 0.024*Chancellor of the Annex
+ 0.024*Bloodstained Mire 
+
+Archetype 9 
+ 0.074*Island
+ 0.052*Mutavault
+ 0.052*Chalice of the Void
+ 0.051*True-Name Nemesis
+ 0.050*Umezawa's Jitte
+ 0.049*Silvergill Adept
+ 0.049*Master of the Pearl Trident
+ 0.049*Aether Vial
+ 0.047*Force of Will
+ 0.047*Dismember
+ 0.047*Cavern of Souls
+ 0.041*Lord of Atlantis
+ 0.041*Merfolk Trickster
+ 0.039*Thassa's Oracle
+ 0.039*Paradigm Shift
+ 0.033*Brazen Borrower 
+
+Archetype 10 
+ 0.077*Plague Engineer
+ 0.069*Liliana of the Veil
+ 0.061*Liliana, the Last Hope
+ 0.056*Swamp
+ 0.051*Dark Confidant
+ 0.043*Liliana's Triumph
+ 0.041*Thoughtseize
+ 0.041*Leyline of the Void
+ 0.039*Inquisition of Kozilek
+ 0.027*Hymn to Tourach
+ 0.026*Snow-Covered Swamp
+ 0.024*Marsh Flats
+ 0.022*Scrubland
+ 0.021*Extirpate
+ 0.018*Eliminate
+ 0.018*Bayou 
+
+Archetype 11 
+ 0.074*Ashiok, Dream Render
+ 0.044*Ensnaring Bridge
+ 0.035*Dark Ritual
+ 0.029*Urborg, Tomb of Yawgmoth
+ 0.029*Pithing Needle
+ 0.028*Castle Locthwain
+ 0.025*Wasteland
+ 0.025*Smallpox
+ 0.025*Engineered Plague
+ 0.025*Mishra's Factory
+ 0.025*Innocent Blood
+ 0.024*Hymn to Tourach
+ 0.024*Tormod's Crypt
+ 0.022*Toxic Deluge
+ 0.020*Maze of Ith
+ 0.019*Bojuka Bog 
+
+Archetype 12 
+ 0.035*Ancient Tomb
+ 0.034*Show and Tell
+ 0.032*Emrakul, the Aeons Torn
+ 0.032*Volcanic Island
+ 0.032*Force of Will
+ 0.032*Brainstorm
+ 0.032*Ponder
+ 0.031*Intuition
+ 0.031*Scalding Tarn
+ 0.030*Lotus Petal
+ 0.030*Preordain
+ 0.029*City of Traitors
+ 0.029*Griselbrand
+ 0.028*Sneak Attack
+ 0.028*Polluted Delta
+ 0.027*Flusterstorm 
+
+Archetype 13 
+ 0.038*Plague Engineer
+ 0.036*Abrupt Decay
+ 0.036*Tropical Island
+ 0.036*Bayou
+ 0.034*Snow-Covered Swamp
+ 0.034*Misty Rainforest
+ 0.033*Underground Sea
+ 0.033*Oko, Thief of Crowns
+ 0.033*Snow-Covered Island
+ 0.032*Brainstorm
+ 0.032*Snow-Covered Forest
+ 0.032*Leovold, Emissary of Trest
+ 0.030*Force of Will
+ 0.030*Verdant Catacombs
+ 0.029*Uro, Titan of Nature's Wrath
+ 0.029*Polluted Delta 
+
+Archetype 14 
+ 0.062*Phyrexian Revoker
+ 0.043*Karn, Scion of Urza
+ 0.040*Lodestone Golem
+ 0.039*Stonecoil Serpent
+ 0.037*Wasteland
+ 0.036*Arcbound Ravager
+ 0.034*Mishra's Factory
+ 0.034*Chalice of the Void
+ 0.034*Thorn of Amethyst
+ 0.033*Walking Ballista
+ 0.033*Ancient Tomb
+ 0.033*Umezawa's Jitte
+ 0.033*City of Traitors
+ 0.032*Mox Opal
+ 0.031*Karakas
+ 0.031*Leyline of the Void 
+
+Archetype 15 
+ 0.051*Plains
+ 0.043*Sanctum Prelate
+ 0.037*Umezawa's Jitte
+ 0.035*Thalia, Guardian of Thraben
+ 0.034*Stoneforge Mystic
+ 0.034*Mother of Runes
+ 0.034*Sword of Fire and Ice
+ 0.033*Swords to Plowshares
+ 0.033*Karakas
+ 0.033*Wasteland
+ 0.033*Batterskull
+ 0.032*Rest in Peace
+ 0.032*Aether Vial
+ 0.031*Rishadan Port
+ 0.030*Flickerwisp
+ 0.030*Recruiter of the Guard 
+
+Archetype 16 
+ 0.053*Walking Ballista
+ 0.045*Ensnaring Bridge
+ 0.042*Karn, the Great Creator
+ 0.041*Mycosynth Lattice
+ 0.039*Lion's Eye Diamond
+ 0.035*Tormod's Crypt
+ 0.035*Ancient Tomb
+ 0.034*Liquimetal Coating
+ 0.033*Sorcerous Spyglass
+ 0.031*Chalice of the Void
+ 0.029*City of Traitors
+ 0.021*Mox Opal
+ 0.021*Lotus Petal
+ 0.018*Mishra's Bauble
+ 0.017*Karakas
+ 0.017*Urza's Bauble 
+
+Archetype 17 
+ 0.034*Goblin Trashmaster
+ 0.032*Mountain
+ 0.031*Pyrokinesis
+ 0.031*Goblin Ringleader
+ 0.031*Goblin Matron
+ 0.031*Cavern of Souls
+ 0.031*Goblin Cratermaker
+ 0.031*Goblin Chainwhirler
+ 0.030*Goblin Lackey
+ 0.030*Goblin Warchief
+ 0.028*Gempalm Incinerator
+ 0.027*Aether Vial
+ 0.027*Wasteland
+ 0.027*Skirk Prospector
+ 0.027*Badlands
+ 0.026*Rishadan Port 
+
+Archetype 18 
+ 0.042*Tundra
+ 0.042*Batterskull
+ 0.041*Stoneforge Mystic
+ 0.039*Umezawa's Jitte
+ 0.037*Ethersworn Canonist
+ 0.035*Containment Priest
+ 0.035*Flooded Strand
+ 0.035*Lavinia, Azorius Renegade
+ 0.033*Swords to Plowshares
+ 0.032*True-Name Nemesis
+ 0.031*Vendilion Clique
+ 0.029*Brainstorm
+ 0.026*Brazen Borrower
+ 0.025*Force of Will
+ 0.024*Teferi, Time Raveler
+ 0.023*Ponder 
+
+Archetype 19 
+ 0.142*Fiery Islet
+ 0.141*Street Wraith
+ 0.102*Iona, Shield of Emeria
+ 0.083*Chain of Vapor
+ 0.066*Shaman of the Pack
+ 0.061*Flame-Kin Zealot
+ 0.058*Fiend Artisan
+ 0.053*Insolent Neonate
+ 0.051*Driven / Despair
+ 0.036*Ingot Chewer
+ 0.018*Noxious Grasp
+ 0.017*Sorcerous Spyglass
+ 0.015*Surgical Extraction
+ 0.015*Metallic Mimic
+ 0.000*Shenanigans
+ 0.000*Nicol Bolas, Planeswalker 
+
+Archetype 20 
+ 0.036*Pyroblast
+ 0.036*Lightning Bolt
+ 0.035*Volcanic Island
+ 0.035*Daze
+ 0.035*Delver of Secrets
+ 0.035*Force of Negation
+ 0.033*Dreadhorde Arcanist
+ 0.033*Brainstorm
+ 0.033*Force of Will
+ 0.033*Ponder
+ 0.032*Abrade
+ 0.032*Scalding Tarn
+ 0.032*Wasteland
+ 0.032*Preordain
+ 0.031*Surgical Extraction
+ 0.027*Brazen Borrower 
+
+Archetype 21 
+ 0.338*Sulfur Elemental
+ 0.062*Vilis, Broker of Blood
+ 0.051*Scab-Clan Berserker
+ 0.048*Magus of the Moon
+ 0.043*Platinum Emperion
+ 0.042*Show and Tell
+ 0.040*Chandra, Heart of Fire
+ 0.035*Island
+ 0.026*Embercleave
+ 0.026*Underground Sea
+ 0.022*Terastodon
+ 0.022*Doom Whisperer
+ 0.022*Stronghold Gambit
+ 0.022*Inquisition of Kozilek
+ 0.000*Night of Souls' Betrayal
+ 0.000*Nicol Bolas, Planeswalker 
+
+Archetype 22 
+ 0.034*Dead of Winter
+ 0.032*Arcum's Astrolabe
+ 0.031*Swords to Plowshares
+ 0.030*Abrupt Decay
+ 0.029*Force of Negation
+ 0.029*Oko, Thief of Crowns
+ 0.029*Snow-Covered Swamp
+ 0.029*Underground Sea
+ 0.028*Tropical Island
+ 0.028*Veil of Summer
+ 0.028*Snow-Covered Island
+ 0.028*Force of Will
+ 0.028*Brainstorm
+ 0.028*Misty Rainforest
+ 0.027*Uro, Titan of Nature's Wrath
+ 0.027*Polluted Delta 
+
+Archetype 23 
+ 0.167*Oblivion Sower
+ 0.138*Noxious Revival
+ 0.108*To the Slaughter
+ 0.080*Kaya's Guile
+ 0.080*Terror of the Peaks
+ 0.074*Kambal, Consul of Allocation
+ 0.031*Kaya, Orzhov Usurper
+ 0.000*Marsh Flats
+ 0.000*Night of Souls' Betrayal
+ 0.000*Nicol Bolas, Planeswalker
+ 0.000*Nicol Bolas, God-Pharaoh
+ 0.000*Nicol Bolas, Dragon-God
+ 0.000*Cruel Reality
+ 0.000*Felidar Retreat
+ 0.000*Skullcrack
+ 0.000*Yixlid Jailer 
+
+Archetype 24 
+ 0.036*Veil of Summer
+ 0.032*Arcum's Astrolabe
+ 0.031*Snow-Covered Island
+ 0.030*Swords to Plowshares
+ 0.030*Brainstorm
+ 0.030*Force of Will
+ 0.030*Flooded Strand
+ 0.030*Snow-Covered Plains
+ 0.029*Terminus
+ 0.029*Tundra
+ 0.029*Pyroblast
+ 0.029*Ponder
+ 0.029*Misty Rainforest
+ 0.028*Force of Negation
+ 0.028*Oko, Thief of Crowns
+ 0.028*Tropical Island 
+
+Archetype 25 
+ 0.062*Forest
+ 0.036*Swamp
+ 0.034*Island
+ 0.032*Eternal Witness
+ 0.029*Tropical Island
+ 0.028*Abrupt Decay
+ 0.028*Verdant Catacombs
+ 0.027*Misty Rainforest
+ 0.027*Bayou
+ 0.025*Surgical Extraction
+ 0.025*Veil of Summer
+ 0.024*Barrin, Tolarian Archmage
+ 0.024*Force of Will
+ 0.024*Plague Engineer
+ 0.024*Mirri's Guile
+ 0.024*Savannah 
+
+Archetype 26 
+ 0.035*Snow-Covered Island
+ 0.035*Teferi, Time Raveler
+ 0.034*Brainstorm
+ 0.031*Swords to Plowshares
+ 0.030*Silence
+ 0.030*Prismatic Vista
+ 0.030*Force of Will
+ 0.029*Force of Negation
+ 0.027*Tropical Island
+ 0.026*Misty Rainforest
+ 0.025*Snow-Covered Forest
+ 0.025*Food Chain
+ 0.025*Walking Ballista
+ 0.024*Snow-Covered Plains
+ 0.024*Misthollow Griffin
+ 0.024*Manipulate Fate 
+
+Archetype 27 
+ 0.147*Plateau
+ 0.116*Skyclave Apparition
+ 0.070*Pyroblast
+ 0.068*Sevinne's Reclamation
+ 0.062*Red Elemental Blast
+ 0.044*Taiga
+ 0.043*Gut Shot
+ 0.040*Stormwing Entity
+ 0.037*Deafening Silence
+ 0.029*Ethereal Forager
+ 0.027*Flagstones of Trokair
+ 0.025*Temple Garden
+ 0.025*Scute Swarm
+ 0.025*Yorion, Sky Nomad
+ 0.023*Yasharn, Implacable Earth
+ 0.022*Surgical Extraction 
+
+Archetype 28 
+ 0.036*Thespian's Stage
+ 0.036*Abrupt Decay
+ 0.036*Sylvan Safekeeper
+ 0.036*Dark Depths
+ 0.034*Bojuka Bog
+ 0.034*Sejiri Steppe
+ 0.034*Crop Rotation
+ 0.032*Vampire Hexmage
+ 0.032*Urborg, Tomb of Yawgmoth
+ 0.032*Pithing Needle
+ 0.031*Thoughtseize
+ 0.031*Karakas
+ 0.031*Surgical Extraction
+ 0.030*Bayou
+ 0.030*Verdant Catacombs
+ 0.028*Elvish Reclaimer 
+
+Archetype 29 
+ 0.043*Natural Order
+ 0.037*Dryad Arbor
+ 0.037*Green Sun's Zenith
+ 0.036*Gaea's Cradle
+ 0.036*Craterhoof Behemoth
+ 0.036*Glimpse of Nature
+ 0.036*Quirion Ranger
+ 0.036*Wirewood Symbiote
+ 0.036*Heritage Druid
+ 0.036*Elvish Visionary
+ 0.036*Windswept Heath
+ 0.035*Birchlore Rangers
+ 0.035*Bayou
+ 0.034*Thoughtseize
+ 0.034*Wooded Foothills
+ 0.033*Scavenging Ooze 
+
+Archetype 30 
+ 0.081*Qasali Pridemage
+ 0.061*Phyrexian Tower
+ 0.048*Arena Rector
+ 0.044*Academy Rector
+ 0.041*Thoughtseize
+ 0.038*Veteran Explorer
+ 0.036*Living Wish
+ 0.032*Savannah
+ 0.030*Cavern of Souls
+ 0.029*Windswept Heath
+ 0.028*Bayou
+ 0.027*Mother of Runes
+ 0.027*Cabal Therapy
+ 0.026*Forest
+ 0.025*Ugin, the Spirit Dragon
+ 0.025*Scrubland 
+
+Archetype 31 
+ 0.068*Cabal Therapy
+ 0.046*Hogaak, Arisen Necropolis
+ 0.045*Stitcher's Supplier
+ 0.043*Bloodghast
+ 0.042*Gravecrawler
+ 0.042*Force of Vigor
+ 0.042*Vengevine
+ 0.042*Bridge from Below
+ 0.041*Altar of Dementia
+ 0.041*Bayou
+ 0.039*Verdant Catacombs
+ 0.039*Leyline of the Void
+ 0.039*Polluted Delta
+ 0.039*Abrupt Decay
+ 0.037*Swamp
+ 0.036*Assassin's Trophy 
+
+Archetype 32 
+ 0.109*Ninja of the Deep Hours
+ 0.102*Spellstutter Sprite
+ 0.069*Scab-Clan Berserker
+ 0.066*Magus of the Moon
+ 0.046*Chaos Warp
+ 0.045*Faerie Macabre
+ 0.040*Goblin Rabblemaster
+ 0.036*Cavern of Souls
+ 0.036*Legion Warboss
+ 0.033*Battlefield Forge
+ 0.033*Winota, Joiner of Forces
+ 0.033*Angrath's Marauders
+ 0.033*Phyrexian Revoker
+ 0.023*Ancestral Vision
+ 0.022*Thalia, Guardian of Thraben
+ 0.021*Thought-Knot Seer 
+
+Archetype 33 
+ 0.037*Thassa's Oracle
+ 0.036*Ponder
+ 0.036*Brainstorm
+ 0.035*Force of Will
+ 0.034*Lotus Petal
+ 0.034*Underground Sea
+ 0.034*Doomsday
+ 0.033*Dark Ritual
+ 0.031*Preordain
+ 0.031*Daze
+ 0.031*Street Wraith
+ 0.030*Edge of Autumn
+ 0.029*Cavern of Souls
+ 0.029*Polluted Delta
+ 0.028*Lion's Eye Diamond
+ 0.026*Flusterstorm 
+
+Archetype 34 
+ 0.038*Force of Will
+ 0.036*Crop Rotation
+ 0.032*Veil of Summer
+ 0.031*Noble Hierarch
+ 0.031*Sylvan Library
+ 0.031*Tropical Island
+ 0.031*Berserk
+ 0.030*Inkmoth Nexus
+ 0.030*Brainstorm
+ 0.030*Daze
+ 0.030*Pendelhaven
+ 0.030*Invigorate
+ 0.029*Vines of Vastwood
+ 0.029*Blighted Agent
+ 0.029*Glistener Elf
+ 0.029*Spell Pierce 
+
+Archetype 35 
+ 0.048*Fatal Push
+ 0.044*Underground Sea
+ 0.044*Plague Engineer
+ 0.044*Thoughtseize
+ 0.038*Polluted Delta
+ 0.038*Brainstorm
+ 0.038*Force of Will
+ 0.034*Ponder
+ 0.031*Brazen Borrower
+ 0.031*Daze
+ 0.028*Force of Negation
+ 0.022*Surgical Extraction
+ 0.020*Yuriko, the Tiger's Shadow
+ 0.020*Gurmag Angler
+ 0.019*Ingenious Infiltrator
+ 0.019*Ornithopter 
+
+Archetype 36 
+ 0.223*Toxic Deluge
+ 0.068*Pernicious Deed
+ 0.053*Roiling Vortex
+ 0.048*Cabal Therapy
+ 0.034*Eternal Witness
+ 0.032*Thoughtseize
+ 0.031*Liliana's Triumph
+ 0.030*Veteran Explorer
+ 0.029*Faerie Macabre
+ 0.028*Collective Brutality
+ 0.028*Phyrexian Tower
+ 0.025*Of One Mind
+ 0.024*Oath of Ghouls
+ 0.024*Sunbaked Canyon
+ 0.023*Meren of Clan Nel Toth
+ 0.019*Assassin's Trophy 
+
+Archetype 37 
+ 0.121*Goblin Rabblemaster
+ 0.081*Chrome Mox
+ 0.068*Legion Warboss
+ 0.068*Magus of the Moon
+ 0.054*Blood Moon
+ 0.042*Anje's Ravager
+ 0.041*Ancient Tomb
+ 0.037*Pia and Kiran Nalaar
+ 0.035*Shatterskull Smashing
+ 0.034*City of Traitors
+ 0.032*Shattering Spree
+ 0.031*Sorcerous Spyglass
+ 0.030*Electrickery
+ 0.029*Simian Spirit Guide
+ 0.021*Engineered Explosives
+ 0.020*Scroll of Fate 
+
+Archetype 38 
+ 0.038*Mox Diamond
+ 0.038*Life from the Loam
+ 0.034*Blast Zone
+ 0.032*Maze of Ith
+ 0.030*Wasteland
+ 0.030*Karakas
+ 0.029*The Tabernacle at Pendrell Vale
+ 0.028*Sylvan Library
+ 0.028*Forest
+ 0.027*Field of the Dead
+ 0.027*Bojuka Bog
+ 0.027*Windswept Heath
+ 0.023*Dark Depths
+ 0.023*Thespian's Stage
+ 0.022*Force of Vigor
+ 0.022*Crop Rotation 
+
+Archetype 39 
+ 0.199*Dead / Gone
+ 0.137*Grim Lavamancer
+ 0.126*Goblin Rabblemaster
+ 0.107*Magus of the Moon
+ 0.088*Sea Gate Restoration
+ 0.039*Chrome Mox
+ 0.029*Magmatic Sinkhole
+ 0.029*Goblin Charbelcher
+ 0.027*Bonecrusher Giant
+ 0.025*Jwari Disruption
+ 0.025*Pelakka Predation
+ 0.017*Robber of the Rich
+ 0.014*Snow-Covered Mountain
+ 0.012*Neheb, Dreadhorde Champion
+ 0.012*Sudden Demise
+ 0.009*Nexus of Fate 
+
+Archetype 40 
+ 0.057*Pyroblast
+ 0.046*Volcanic Island
+ 0.046*Badlands
+ 0.042*Scalding Tarn
+ 0.041*Underground Sea
+ 0.039*Kolaghan's Command
+ 0.035*Lightning Bolt
+ 0.035*Red Elemental Blast
+ 0.033*Fatal Push
+ 0.032*Plague Engineer
+ 0.031*Nihil Spellbomb
+ 0.031*Polluted Delta
+ 0.030*Force of Will
+ 0.029*Thoughtseize
+ 0.028*Bloodstained Mire
+ 0.028*Ponder 
+
+Archetype 41 
+ 0.060*Echo of Eons
+ 0.048*Tendrils of Agony
+ 0.041*Empty the Warrens
+ 0.038*Burning Wish
+ 0.035*Chain of Vapor
+ 0.034*Grapeshot
+ 0.034*Rite of Flame
+ 0.033*Badlands
+ 0.032*Veil of Summer
+ 0.032*Bloodstained Mire
+ 0.030*Lotus Petal
+ 0.030*Defense Grid
+ 0.029*Lion's Eye Diamond
+ 0.028*Wishclaw Talisman
+ 0.027*Chrome Mox
+ 0.027*Polluted Delta 
+
+Archetype 42 
+ 0.066*Bitterblossom
+ 0.065*Conspicuous Snoop
+ 0.054*Boggart Harbinger
+ 0.050*Umezawa's Jitte
+ 0.048*Thieves' Guild Enforcer
+ 0.045*Snow-Covered Swamp
+ 0.039*Cavern of Souls
+ 0.036*Unearth
+ 0.036*True-Name Nemesis
+ 0.033*Nighthawk Scavenger
+ 0.033*Soaring Thought-Thief
+ 0.033*Thorn of Amethyst
+ 0.029*Jace, the Mind Sculptor
+ 0.028*Inquisition of Kozilek
+ 0.027*Anowon, the Ruin Thief
+ 0.027*Thada Adel, Acquisitor 
+
+Archetype 43 
+ 0.290*Silent Clearing
+ 0.134*Orzhov Pontiff
+ 0.070*Sword of Light and Shadow
+ 0.062*Warping Wail
+ 0.060*Ratchet Bomb
+ 0.038*Umezawa's Jitte
+ 0.036*Lingering Souls
+ 0.036*Chalice of the Void
+ 0.035*Batterskull
+ 0.034*Mirran Crusader
+ 0.022*Celestial Purge
+ 0.021*Snow-Covered Plains
+ 0.018*Grand Abolisher
+ 0.013*Oblivion Ring
+ 0.013*Mother of Runes
+ 0.011*Wild Nacatl 
+
+Archetype 44 
+ 0.214*Dark Petition
+ 0.153*Hurkyl's Recall
+ 0.135*Chain of Vapor
+ 0.120*Echoing Truth
+ 0.094*Leyline of Sanctity
+ 0.055*Ground Seal
+ 0.039*Chromatic Star
+ 0.019*Nihil Spellbomb
+ 0.009*Ancient Den
+ 0.008*Shenanigans
+ 0.008*Heliod, Sun-Crowned
+ 0.000*Surgical Extraction
+ 0.000*Xantid Swarm
+ 0.000*Cabal Ritual
+ 0.000*Lotus Petal
+ 0.000*Nicol Bolas, God-Pharaoh 
+
+Archetype 45 
+ 0.070*Thorn of Amethyst
+ 0.052*Cavern of Souls
+ 0.046*Once Upon a Time
+ 0.045*Ancient Tomb
+ 0.045*Plague Engineer
+ 0.044*Chalice of the Void
+ 0.041*Sorcerous Spyglass
+ 0.040*Wasteland
+ 0.038*Leyline of the Void
+ 0.037*Karakas
+ 0.036*Reality Smasher
+ 0.036*Thought-Knot Seer
+ 0.036*Eldrazi Mimic
+ 0.035*Endless One
+ 0.035*Eldrazi Temple
+ 0.034*Matter Reshaper 
+
+Archetype 46 
+ 0.036*Stifle
+ 0.032*Snow-Covered Island
+ 0.032*Uro, Titan of Nature's Wrath
+ 0.031*Pyroblast
+ 0.029*Tropical Island
+ 0.028*Misty Rainforest
+ 0.028*Sylvan Library
+ 0.028*Wasteland
+ 0.028*Oko, Thief of Crowns
+ 0.027*Volcanic Island
+ 0.026*Scalding Tarn
+ 0.026*Force of Will
+ 0.026*Surgical Extraction
+ 0.026*Snow-Covered Forest
+ 0.026*Brainstorm
+ 0.026*Lightning Bolt 
+
+Archetype 47 
+ 0.036*Tropical Island
+ 0.035*Oko, Thief of Crowns
+ 0.033*Delver of Secrets
+ 0.033*Daze
+ 0.033*Force of Will
+ 0.033*Lightning Bolt
+ 0.033*Wasteland
+ 0.033*Ponder
+ 0.032*Brainstorm
+ 0.032*Volcanic Island
+ 0.032*Force of Negation
+ 0.031*Pyroblast
+ 0.030*Sylvan Library
+ 0.030*Surgical Extraction
+ 0.030*Chain Lightning
+ 0.029*Polluted Delta 
+
+Archetype 48 
+ 0.082*Helm of Obedience
+ 0.055*Utopia Sprawl
+ 0.043*Serra's Sanctum
+ 0.043*Argothian Enchantress
+ 0.036*Solitary Confinement
+ 0.030*Abundant Growth
+ 0.030*On Thin Ice
+ 0.029*Destiny Spinner
+ 0.029*Seal of Primordium
+ 0.028*Enchantress's Presence
+ 0.028*Wild Growth
+ 0.028*Elephant Grass
+ 0.028*Windswept Heath
+ 0.025*Sterling Grove
+ 0.025*Emrakul, the Aeons Torn
+ 0.024*Oblivion Ring 
+
+Archetype 49 
+ 0.048*Pact of Negation
+ 0.047*Chrome Mox
+ 0.047*Elvish Spirit Guide
+ 0.044*Cabal Therapy
+ 0.043*Agadeem's Awakening
+ 0.043*Balustrade Spy
+ 0.043*Thassa's Oracle
+ 0.043*Simian Spirit Guide
+ 0.042*Undercity Informer
+ 0.042*Narcomoeba
+ 0.042*Dread Return
+ 0.039*Cabal Ritual
+ 0.039*Lotus Petal
+ 0.039*Dark Ritual
+ 0.038*Nature's Claim
+ 0.036*Chancellor of the Annex 
+
+Archetype 50 
+ 0.098*Engineered Explosives
+ 0.094*Soul-Guide Lantern
+ 0.094*Lurrus of the Dream-Den
+ 0.091*Sevinne's Reclamation
+ 0.063*Mishra's Bauble
+ 0.062*Seal of Cleansing
+ 0.051*Predict
+ 0.045*Tormod's Crypt
+ 0.042*Karakas
+ 0.031*Counterbalance
+ 0.028*Agent of Treachery
+ 0.028*Red Elemental Blast
+ 0.026*Daretti, Ingenious Iconoclast
+ 0.026*Unmoored Ego
+ 0.023*Goblin Cratermaker
+ 0.018*Meddling Mage 
+
+Archetype 51 
+ 0.142*Kaya, Orzhov Usurper
+ 0.096*Opposition Agent
+ 0.077*Ancient Grudge
+ 0.072*Nature's Chant
+ 0.065*Searing Blaze
+ 0.063*Minamo, School at Water's Edge
+ 0.052*Chains of Mephistopheles
+ 0.045*Faerie Macabre
+ 0.038*Scrubland
+ 0.029*Swamp
+ 0.028*Kaya, Ghost Assassin
+ 0.025*Ghost Quarter
+ 0.025*Mesmeric Fiend
+ 0.023*Wasteland Strangler
+ 0.019*Skullcrack
+ 0.018*Grim Lavamancer 
+
+Archetype 52 
+ 0.764*Null Rod
+ 0.012*Buried Ruin
+ 0.000*Once Upon a Time
+ 0.000*Snow-Covered Forest
+ 0.000*Breeding Pool
+ 0.000*Skullcrack
+ 0.000*Nicol Bolas, Planeswalker
+ 0.000*Nicol Bolas, God-Pharaoh
+ 0.000*Nicol Bolas, Dragon-God
+ 0.000*Cruel Reality
+ 0.000*Stubborn Denial
+ 0.000*Grand Abolisher
+ 0.000*Terror of the Peaks
+ 0.000*Tithe
+ 0.000*Shambling Shell
+ 0.000*Notion Thief 
+
+Archetype 53 
+ 0.048*Disenchant
+ 0.047*Swords to Plowshares
+ 0.047*Plains
+ 0.040*Island
+ 0.039*Tundra
+ 0.038*Spell Pierce
+ 0.038*Monastery Mentor
+ 0.036*Flooded Strand
+ 0.036*Teferi, Time Raveler
+ 0.036*Back to Basics
+ 0.033*Snapcaster Mage
+ 0.032*Ponder
+ 0.030*Force of Will
+ 0.030*Brainstorm
+ 0.029*Jace, the Mind Sculptor
+ 0.028*Council's Judgment 
+
+Archetype 54 
+ 0.053*Thassa's Oracle
+ 0.045*Aether Vial
+ 0.043*Force of Will
+ 0.039*Cabal Therapy
+ 0.039*Nomads en-Kor
+ 0.039*Cephalid Illusionist
+ 0.037*Narcomoeba
+ 0.037*Dread Return
+ 0.036*Shuko
+ 0.035*Daze
+ 0.035*Underground Sea
+ 0.034*Polluted Delta
+ 0.032*Flooded Strand
+ 0.030*Stoneforge Mystic
+ 0.030*Recruiter of the Guard
+ 0.030*Batterskull 
+
+Archetype 55 
+ 0.051*Veil of Summer
+ 0.035*Emrakul, the Aeons Torn
+ 0.035*Show and Tell
+ 0.035*Omniscience
+ 0.032*Intuition
+ 0.032*Cunning Wish
+ 0.030*Force of Will
+ 0.030*Ponder
+ 0.030*Brainstorm
+ 0.030*Snow-Covered Island
+ 0.029*Misty Rainforest
+ 0.028*Tropical Island
+ 0.028*Carpet of Flowers
+ 0.027*Preordain
+ 0.027*Shared Summons
+ 0.026*Impulse 
+
+Archetype 56 
+ 0.058*Sanctum Prelate
+ 0.050*Meddling Mage
+ 0.048*Deputy of Detention
+ 0.041*Mother of Runes
+ 0.039*Palace Jailer
+ 0.034*Aether Vial
+ 0.034*Cavern of Souls
+ 0.034*Noble Hierarch
+ 0.034*Horizon Canopy
+ 0.033*Thalia, Guardian of Thraben
+ 0.032*Karakas
+ 0.031*Wasteland
+ 0.030*Ancient Ziggurat
+ 0.029*Unclaimed Territory
+ 0.029*Thalia's Lieutenant
+ 0.029*Champion of the Parish 
+
+Archetype 57 
+ 0.191*Swords to Plowshares
+ 0.176*Tundra
+ 0.165*Snow-Covered Plains
+ 0.152*Teferi, Time Raveler
+ 0.067*Karakas
+ 0.045*Meddling Mage
+ 0.035*Venser, Shaper Savant
+ 0.026*Eladamri's Call
+ 0.021*Boseiju, Who Shelters All
+ 0.020*Restoration Angel
+ 0.015*Rest in Peace
+ 0.013*Into the North
+ 0.012*Aven Mindcensor
+ 0.011*Echoing Truth
+ 0.004*Sublime Epiphany
+ 0.000*Prismatic Vista 
+
+Archetype 58 
+ 0.076*Pyroblast
+ 0.059*Punishing Fire
+ 0.058*Grove of the Burnwillows
+ 0.050*Dack Fayden
+ 0.045*Drown in the Loch
+ 0.043*Badlands
+ 0.038*Lightning Bolt
+ 0.037*Volcanic Island
+ 0.036*Toxic Deluge
+ 0.033*Snapcaster Mage
+ 0.030*Notion Thief
+ 0.029*Scalding Tarn
+ 0.027*Cling to Dust
+ 0.023*Pernicious Deed
+ 0.021*Surgical Extraction
+ 0.021*Jace, the Mind Sculptor 
+
+Archetype 59 
+ 0.090*Stronghold Gambit
+ 0.088*Trinket Mage
+ 0.080*Fire / Ice
+ 0.077*Chill
+ 0.070*Force of Despair
+ 0.037*Absolute Law
+ 0.033*Echoing Truth
+ 0.026*Once Upon a Time
+ 0.026*Thrun, the Last Troll
+ 0.025*Underground Sea
+ 0.025*Faerie Macabre
+ 0.023*Deep Analysis
+ 0.023*Liliana's Triumph
+ 0.023*Clip Wings
+ 0.023*Vito, Thorn of the Dusk Rose
+ 0.020*Tormod's Crypt 
+
+Archetype 60 
+ 0.181*Reclamation Sage
+ 0.087*Savannah
+ 0.083*Wildborn Preserver
+ 0.082*Veil of Summer
+ 0.078*Llanowar Elves
+ 0.060*Overgrown Tomb
+ 0.057*Fyndhorn Elves
+ 0.055*Regal Force
+ 0.052*Pendelhaven
+ 0.040*Oko, Thief of Crowns
+ 0.037*Force of Vigor
+ 0.032*Surgical Extraction
+ 0.025*Sorcerous Spyglass
+ 0.023*Tropical Island
+ 0.014*Faerie Macabre
+ 0.010*Opposition 
+
+Archetype 61 
+ 0.069*Ensnaring Bridge
+ 0.055*Trinisphere
+ 0.053*Mountain
+ 0.047*Sorcerous Spyglass
+ 0.044*City of Traitors
+ 0.044*Ancient Tomb
+ 0.042*Liquimetal Coating
+ 0.042*Simian Spirit Guide
+ 0.041*Mycosynth Lattice
+ 0.040*Karn, the Great Creator
+ 0.039*Chalice of the Void
+ 0.034*Chandra, Torch of Defiance
+ 0.033*Bonecrusher Giant
+ 0.033*Tormod's Crypt
+ 0.033*Fiery Confluence
+ 0.032*Chandra, Awakened Inferno 
+
+Archetype 62 
+ 0.043*Veil of Summer
+ 0.036*Infernal Tutor
+ 0.034*Duress
+ 0.034*Tendrils of Agony
+ 0.034*Flusterstorm
+ 0.034*Underground Sea
+ 0.034*Polluted Delta
+ 0.033*Past in Flames
+ 0.032*Dark Ritual
+ 0.032*Preordain
+ 0.032*Thoughtseize
+ 0.032*Cabal Ritual
+ 0.032*Lion's Eye Diamond
+ 0.032*Lotus Petal
+ 0.031*Brainstorm
+ 0.031*Abrupt Decay 
+
+Archetype 63 
+ 0.072*Grindstone
+ 0.057*Painter's Servant
+ 0.054*Ensnaring Bridge
+ 0.039*Goblin Engineer
+ 0.037*Goblin Welder
+ 0.037*Snow-Covered Mountain
+ 0.037*Red Elemental Blast
+ 0.035*Pyroblast
+ 0.031*Lotus Petal
+ 0.029*Great Furnace
+ 0.029*Arcum's Astrolabe
+ 0.028*Tormod's Crypt
+ 0.027*Ancient Tomb
+ 0.025*Pithing Needle
+ 0.024*Abrade
+ 0.022*Karn, the Great Creator 
+
+Archetype 64 
+ 0.207*Wilt
+ 0.167*Misdirection
+ 0.114*Engineered Explosives
+ 0.080*Counterbalance
+ 0.079*Uro, Titan of Nature's Wrath
+ 0.046*Dismember
+ 0.046*Flame Slash
+ 0.028*Damnation
+ 0.028*Phyrexian Revoker
+ 0.022*Tin Street Hooligan
+ 0.020*Back to Nature
+ 0.016*Oko, Thief of Crowns
+ 0.014*Syphon Sliver
+ 0.012*Ill-Gotten Gains
+ 0.008*Opposition
+ 0.000*Veil of Summer 
+
+Archetype 65 
+ 0.053*Thought-Knot Seer
+ 0.049*Eldrazi Temple
+ 0.046*Eye of Ugin
+ 0.042*Ratchet Bomb
+ 0.039*Karakas
+ 0.038*Walking Ballista
+ 0.038*Leyline of the Void
+ 0.038*Sorcerous Spyglass
+ 0.036*Warping Wail
+ 0.035*Ancient Tomb
+ 0.035*Reality Smasher
+ 0.034*Chalice of the Void
+ 0.032*City of Traitors
+ 0.030*Dismember
+ 0.029*Matter Reshaper
+ 0.029*Blast Zone 
+
+Archetype 66 
+ 0.093*Mountain
+ 0.086*Abrade
+ 0.068*Seething Song
+ 0.051*Sneak Attack
+ 0.050*Arclight Phoenix
+ 0.049*Blightsteel Colossus
+ 0.046*Defense Grid
+ 0.045*Through the Breach
+ 0.043*Bedlam Reveler
+ 0.037*Tormod's Crypt
+ 0.036*Faithless Looting
+ 0.033*Emrakul, the Aeons Torn
+ 0.031*Lava Dart
+ 0.031*Soul-Scar Mage
+ 0.030*Ravenous Trap
+ 0.029*Manamorphose 
+
+Archetype 67 
+ 0.072*Hullbreacher
+ 0.058*Relic of Progenitus
+ 0.057*Force of Negation
+ 0.055*Blue Elemental Blast
+ 0.051*Narset, Parter of Veils
+ 0.044*Grafdigger's Cage
+ 0.041*Island
+ 0.040*Surgical Extraction
+ 0.037*Standstill
+ 0.034*Pithing Needle
+ 0.033*Shark Typhoon
+ 0.033*Torpor Orb
+ 0.027*Flusterstorm
+ 0.025*Submerge
+ 0.025*Snow-Covered Island
+ 0.024*Engineered Explosives 
+
+Archetype 68 
+ 0.149*Zealous Persecution
+ 0.108*Vault of Whispers
+ 0.095*Dead Weight
+ 0.080*Meekstone
+ 0.075*Stormchaser Mage
+ 0.075*Tsabo's Web
+ 0.040*Natural State
+ 0.000*Force of Negation
+ 0.000*Surgical Extraction
+ 0.000*Mystical Dispute
+ 0.000*Oko, Thief of Crowns
+ 0.000*Cruel Reality
+ 0.000*Stubborn Denial
+ 0.000*Breeding Pool
+ 0.000*Notion Thief
+ 0.000*Nicol Bolas, God-Pharaoh 
+
+Archetype 69 
+ 0.042*Abrupt Decay
+ 0.039*Thoughtseize
+ 0.037*Bayou
+ 0.036*Oko, Thief of Crowns
+ 0.035*Plague Engineer
+ 0.035*Underground Sea
+ 0.034*Tropical Island
+ 0.031*Polluted Delta
+ 0.030*Veil of Summer
+ 0.030*Brainstorm
+ 0.029*Ponder
+ 0.029*Force of Will
+ 0.029*Misty Rainforest
+ 0.028*Fatal Push
+ 0.027*Force of Negation
+ 0.025*Wasteland 
+
+Archetype 70 
+ 0.164*Basilisk Collar
+ 0.114*Darkblast
+ 0.107*Spatial Contortion
+ 0.068*Fae of Wishes
+ 0.054*Spell Queller
+ 0.035*Gemrazer
+ 0.032*The Royal Scions
+ 0.027*Drogskol Captain
+ 0.027*Supreme Phantom
+ 0.027*Mausoleum Wanderer
+ 0.025*Surgical Extraction
+ 0.019*Izzet Staticaster
+ 0.019*Moorland Haunt
+ 0.019*Unsettled Mariner
+ 0.019*Rattlechains
+ 0.019*Radha, Heart of Keld 
+
+Archetype 71 
+ 0.154*Elvish Mystic
+ 0.104*Choke
+ 0.104*Nissa, Vital Force
+ 0.103*Llanowar Elves
+ 0.101*Reclamation Sage
+ 0.083*Staff of Domination
+ 0.077*Blood Crypt
+ 0.038*Undiscovered Paradise
+ 0.024*Pendelhaven
+ 0.021*Godless Shrine
+ 0.021*Shifting Ceratops
+ 0.018*Fyndhorn Elves
+ 0.018*Relic of Progenitus
+ 0.014*Carpet of Flowers
+ 0.000*Forest
+ 0.000*Savannah 
+
+Archetype 72 
+ 0.068*Chalice of the Void
+ 0.067*Thalia, Heretic Cathar
+ 0.041*Containment Priest
+ 0.039*Karakas
+ 0.037*Ancient Tomb
+ 0.035*Mox Diamond
+ 0.035*Oblivion Ring
+ 0.034*Thalia, Guardian of Thraben
+ 0.034*Snow-Covered Plains
+ 0.032*Cavern of Souls
+ 0.032*Walking Ballista
+ 0.030*Thought-Knot Seer
+ 0.028*Eldrazi Displacer
+ 0.028*Palace Jailer
+ 0.027*Rest in Peace
+ 0.026*Disenchant 
+
+Archetype 73 
+ 0.055*Green Sun's Zenith
+ 0.053*Dryad Arbor
+ 0.038*Collector Ouphe
+ 0.037*Scavenging Ooze
+ 0.036*Savannah
+ 0.033*Wasteland
+ 0.031*Sylvan Library
+ 0.029*Swords to Plowshares
+ 0.028*Knight of the Reliquary
+ 0.028*Windswept Heath
+ 0.026*Karakas
+ 0.026*Noble Hierarch
+ 0.025*Knight of Autumn
+ 0.023*Ramunap Excavator
+ 0.022*Forest
+ 0.021*Questing Beast 
