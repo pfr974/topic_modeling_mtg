@@ -14,7 +14,9 @@ Archetype 0
  0.036*Cephalid Coliseum
  0.035*City of Brass
  0.035*Faithless Looting
- 0.034*Hogaak, Arisen Necropolis 
+ 0.034*Hogaak, Arisen Necropolis
+ 0.032*Leyline of the Void
+ 0.032*Careful Study 
 
 Archetype 1 
  0.126*Krosan Grip
@@ -32,7 +34,9 @@ Archetype 1
  0.029*Ulamog, the Ceaseless Hunger
  0.027*Vesuva
  0.027*Cloudpost
- 0.027*Glimmerpost 
+ 0.027*Glimmerpost
+ 0.026*Tormod's Crypt
+ 0.026*Retrofitter Foundry 
 
 Archetype 2 
  0.072*Mountain
@@ -50,7 +54,9 @@ Archetype 2
  0.037*Goblin Guide
  0.035*Lava Spike
  0.033*Rift Bolt
- 0.030*Exquisite Firecraft 
+ 0.030*Exquisite Firecraft
+ 0.026*Glacial Chasm
+ 0.017*Surgical Extraction 
 
 Archetype 3 
  0.074*Wear / Tear
@@ -68,7 +74,9 @@ Archetype 3
  0.034*Ponder
  0.033*Tundra
  0.033*Snow-Covered Plains
- 0.030*Spell Pierce 
+ 0.030*Spell Pierce
+ 0.029*Brainstorm
+ 0.026*Force of Will 
 
 Archetype 4 
  0.157*Wooded Foothills
@@ -86,7 +94,9 @@ Archetype 4
  0.020*Blast Zone
  0.016*Return to Nature
  0.013*Prismatic Vista
- 0.011*Sphere of Resistance 
+ 0.011*Sphere of Resistance
+ 0.010*Phyrexian Revoker
+ 0.010*Labyrinth of Skophos 
 
 Archetype 5 
  0.057*Plague Engineer
@@ -104,7 +114,9 @@ Archetype 5
  0.025*Meddling Mage
  0.024*Brainstorm
  0.024*Force of Will
- 0.024*Teferi, Time Raveler 
+ 0.024*Teferi, Time Raveler
+ 0.023*Palace Jailer
+ 0.023*Recruiter of the Guard 
 
 Archetype 6 
  0.267*Waterlogged Grove
@@ -122,7 +134,9 @@ Archetype 6
  0.011*Walking Ballista
  0.009*Horizon Canopy
  0.008*Intuition
- 0.000*Field of the Dead 
+ 0.000*Field of the Dead
+ 0.000*Cavern of Souls
+ 0.000*Ancient Tomb 
 
 Archetype 7 
  0.037*Karakas
@@ -140,7 +154,9 @@ Archetype 7
  0.023*Primeval Titan
  0.023*Once Upon a Time
  0.022*Surgical Extraction
- 0.021*Maze of Ith 
+ 0.021*Maze of Ith
+ 0.020*The Tabernacle at Pendrell Vale
+ 0.020*Thespian's Stage 
 
 Archetype 8 
  0.049*Entomb
@@ -158,7 +174,9 @@ Archetype 8
  0.026*Ashen Rider
  0.025*Iona, Shield of Emeria
  0.024*Chancellor of the Annex
- 0.024*Bloodstained Mire 
+ 0.024*Bloodstained Mire
+ 0.024*Bayou
+ 0.023*Swamp 
 
 Archetype 9 
  0.074*Island
@@ -176,7 +194,9 @@ Archetype 9
  0.041*Merfolk Trickster
  0.039*Thassa's Oracle
  0.039*Paradigm Shift
- 0.033*Brazen Borrower 
+ 0.033*Brazen Borrower
+ 0.025*Karakas
+ 0.024*Oboro, Palace in the Clouds 
 
 Archetype 10 
  0.077*Plague Engineer
@@ -194,7 +214,9 @@ Archetype 10
  0.022*Scrubland
  0.021*Extirpate
  0.018*Eliminate
- 0.018*Bayou 
+ 0.018*Bayou
+ 0.016*Bitterblossom
+ 0.016*Force of Vigor 
 
 Archetype 11 
  0.074*Ashiok, Dream Render
@@ -212,7 +234,9 @@ Archetype 11
  0.024*Tormod's Crypt
  0.022*Toxic Deluge
  0.020*Maze of Ith
- 0.019*Bojuka Bog 
+ 0.019*Bojuka Bog
+ 0.019*Surgical Extraction
+ 0.019*Force of Vigor 
 
 Archetype 12 
  0.035*Ancient Tomb
@@ -230,7 +254,9 @@ Archetype 12
  0.029*Griselbrand
  0.028*Sneak Attack
  0.028*Polluted Delta
- 0.027*Flusterstorm 
+ 0.027*Flusterstorm
+ 0.027*Omniscience
+ 0.027*Pyroclasm 
 
 Archetype 13 
  0.038*Plague Engineer
@@ -248,7 +274,9 @@ Archetype 13
  0.030*Force of Will
  0.030*Verdant Catacombs
  0.029*Uro, Titan of Nature's Wrath
- 0.029*Polluted Delta 
+ 0.029*Polluted Delta
+ 0.028*Ice-Fang Coatl
+ 0.027*Veil of Summer 
 
 Archetype 14 
  0.062*Phyrexian Revoker
@@ -266,7 +294,9 @@ Archetype 14
  0.033*City of Traitors
  0.032*Mox Opal
  0.031*Karakas
- 0.031*Leyline of the Void 
+ 0.031*Leyline of the Void
+ 0.031*Sorcerous Spyglass
+ 0.029*Steel Overseer 
 
 Archetype 15 
  0.051*Plains
@@ -284,7 +314,9 @@ Archetype 15
  0.032*Aether Vial
  0.031*Rishadan Port
  0.030*Flickerwisp
- 0.030*Recruiter of the Guard 
+ 0.030*Recruiter of the Guard
+ 0.030*Path to Exile
+ 0.029*Council's Judgment 
 
 Archetype 16 
  0.053*Walking Ballista
@@ -302,7 +334,9 @@ Archetype 16
  0.021*Lotus Petal
  0.018*Mishra's Bauble
  0.017*Karakas
- 0.017*Urza's Bauble 
+ 0.017*Urza's Bauble
+ 0.017*Glimmerpost
+ 0.017*Cloudpost 
 
 Archetype 17 
  0.034*Goblin Trashmaster
@@ -320,7 +354,9 @@ Archetype 17
  0.027*Wasteland
  0.027*Skirk Prospector
  0.027*Badlands
- 0.026*Rishadan Port 
+ 0.026*Rishadan Port
+ 0.026*Munitions Expert
+ 0.026*Sling-Gang Lieutenant 
 
 Archetype 18 
  0.042*Tundra
@@ -338,7 +374,9 @@ Archetype 18
  0.026*Brazen Borrower
  0.025*Force of Will
  0.024*Teferi, Time Raveler
- 0.023*Ponder 
+ 0.023*Ponder
+ 0.021*Sword of Fire and Ice
+ 0.020*Rest in Peace 
 
 Archetype 19 
  0.142*Fiery Islet
@@ -356,7 +394,9 @@ Archetype 19
  0.015*Surgical Extraction
  0.015*Metallic Mimic
  0.000*Shenanigans
- 0.000*Nicol Bolas, Planeswalker 
+ 0.000*Nicol Bolas, Planeswalker
+ 0.000*Felidar Retreat
+ 0.000*Nicol Bolas, Dragon-God 
 
 Archetype 20 
  0.036*Pyroblast
@@ -374,7 +414,9 @@ Archetype 20
  0.032*Wasteland
  0.032*Preordain
  0.031*Surgical Extraction
- 0.027*Brazen Borrower 
+ 0.027*Brazen Borrower
+ 0.026*Young Pyromancer
+ 0.025*Polluted Delta 
 
 Archetype 21 
  0.338*Sulfur Elemental
@@ -392,7 +434,9 @@ Archetype 21
  0.022*Stronghold Gambit
  0.022*Inquisition of Kozilek
  0.000*Night of Souls' Betrayal
- 0.000*Nicol Bolas, Planeswalker 
+ 0.000*Grand Abolisher
+ 0.000*Nicol Bolas, Planeswalker
+ 0.000*Cruel Reality 
 
 Archetype 22 
  0.034*Dead of Winter
@@ -410,7 +454,9 @@ Archetype 22
  0.028*Brainstorm
  0.028*Misty Rainforest
  0.027*Uro, Titan of Nature's Wrath
- 0.027*Polluted Delta 
+ 0.027*Polluted Delta
+ 0.027*Tundra
+ 0.027*Ponder 
 
 Archetype 23 
  0.167*Oblivion Sower
@@ -421,14 +467,16 @@ Archetype 23
  0.074*Kambal, Consul of Allocation
  0.031*Kaya, Orzhov Usurper
  0.000*Marsh Flats
- 0.000*Night of Souls' Betrayal
- 0.000*Nicol Bolas, Planeswalker
+ 0.000*Skullcrack
+ 0.000*Yixlid Jailer
+ 0.000*Felidar Retreat
  0.000*Nicol Bolas, God-Pharaoh
  0.000*Nicol Bolas, Dragon-God
+ 0.000*Tithe
+ 0.000*Nicol Bolas, Planeswalker
+ 0.000*Night of Souls' Betrayal
  0.000*Cruel Reality
- 0.000*Felidar Retreat
- 0.000*Skullcrack
- 0.000*Yixlid Jailer 
+ 0.000*Stubborn Denial 
 
 Archetype 24 
  0.036*Veil of Summer
@@ -446,7 +494,9 @@ Archetype 24
  0.029*Misty Rainforest
  0.028*Force of Negation
  0.028*Oko, Thief of Crowns
- 0.028*Tropical Island 
+ 0.028*Tropical Island
+ 0.027*Teferi, Time Raveler
+ 0.026*Snapcaster Mage 
 
 Archetype 25 
  0.062*Forest
@@ -464,7 +514,9 @@ Archetype 25
  0.024*Force of Will
  0.024*Plague Engineer
  0.024*Mirri's Guile
- 0.024*Savannah 
+ 0.024*Savannah
+ 0.024*Recruiter of the Guard
+ 0.022*Containment Priest 
 
 Archetype 26 
  0.035*Snow-Covered Island
@@ -482,7 +534,9 @@ Archetype 26
  0.025*Walking Ballista
  0.024*Snow-Covered Plains
  0.024*Misthollow Griffin
- 0.024*Manipulate Fate 
+ 0.024*Manipulate Fate
+ 0.023*Veil of Summer
+ 0.023*Savannah 
 
 Archetype 27 
  0.147*Plateau
@@ -500,7 +554,9 @@ Archetype 27
  0.025*Scute Swarm
  0.025*Yorion, Sky Nomad
  0.023*Yasharn, Implacable Earth
- 0.022*Surgical Extraction 
+ 0.022*Surgical Extraction
+ 0.020*Renegade Rallier
+ 0.019*Faerie Macabre 
 
 Archetype 28 
  0.036*Thespian's Stage
@@ -518,7 +574,9 @@ Archetype 28
  0.031*Surgical Extraction
  0.030*Bayou
  0.030*Verdant Catacombs
- 0.028*Elvish Reclaimer 
+ 0.028*Elvish Reclaimer
+ 0.028*Sylvan Library
+ 0.025*Force of Vigor 
 
 Archetype 29 
  0.043*Natural Order
@@ -536,7 +594,9 @@ Archetype 29
  0.035*Bayou
  0.034*Thoughtseize
  0.034*Wooded Foothills
- 0.033*Scavenging Ooze 
+ 0.033*Scavenging Ooze
+ 0.032*Verdant Catacombs
+ 0.031*Abrupt Decay 
 
 Archetype 30 
  0.081*Qasali Pridemage
@@ -554,7 +614,9 @@ Archetype 30
  0.027*Cabal Therapy
  0.026*Forest
  0.025*Ugin, the Spirit Dragon
- 0.025*Scrubland 
+ 0.025*Scrubland
+ 0.024*Plains
+ 0.021*Night of Souls' Betrayal 
 
 Archetype 31 
  0.068*Cabal Therapy
@@ -572,7 +634,9 @@ Archetype 31
  0.039*Polluted Delta
  0.039*Abrupt Decay
  0.037*Swamp
- 0.036*Assassin's Trophy 
+ 0.036*Assassin's Trophy
+ 0.036*Thoughtseize
+ 0.034*Bloodstained Mire 
 
 Archetype 32 
  0.109*Ninja of the Deep Hours
@@ -590,7 +654,9 @@ Archetype 32
  0.033*Phyrexian Revoker
  0.023*Ancestral Vision
  0.022*Thalia, Guardian of Thraben
- 0.021*Thought-Knot Seer 
+ 0.021*Thought-Knot Seer
+ 0.020*Talisman of Conviction
+ 0.010*Mausoleum Wanderer 
 
 Archetype 33 
  0.037*Thassa's Oracle
@@ -608,7 +674,9 @@ Archetype 33
  0.029*Cavern of Souls
  0.029*Polluted Delta
  0.028*Lion's Eye Diamond
- 0.026*Flusterstorm 
+ 0.026*Flusterstorm
+ 0.026*fbl's Vault
+ 0.024*Thoughtseize 
 
 Archetype 34 
  0.038*Force of Will
@@ -624,9 +692,11 @@ Archetype 34
  0.030*Pendelhaven
  0.030*Invigorate
  0.029*Vines of Vastwood
- 0.029*Blighted Agent
  0.029*Glistener Elf
- 0.029*Spell Pierce 
+ 0.029*Blighted Agent
+ 0.029*Spell Pierce
+ 0.028*Flusterstorm
+ 0.028*Ponder 
 
 Archetype 35 
  0.048*Fatal Push
@@ -644,7 +714,9 @@ Archetype 35
  0.020*Yuriko, the Tiger's Shadow
  0.020*Gurmag Angler
  0.019*Ingenious Infiltrator
- 0.019*Ornithopter 
+ 0.019*Ornithopter
+ 0.019*Retrofitter Foundry
+ 0.018*Changeling Outcast 
 
 Archetype 36 
  0.223*Toxic Deluge
@@ -662,7 +734,9 @@ Archetype 36
  0.024*Oath of Ghouls
  0.024*Sunbaked Canyon
  0.023*Meren of Clan Nel Toth
- 0.019*Assassin's Trophy 
+ 0.019*Assassin's Trophy
+ 0.018*Golgari Charm
+ 0.016*Pack Rat 
 
 Archetype 37 
  0.121*Goblin Rabblemaster
@@ -680,7 +754,9 @@ Archetype 37
  0.030*Electrickery
  0.029*Simian Spirit Guide
  0.021*Engineered Explosives
- 0.020*Scroll of Fate 
+ 0.020*Scroll of Fate
+ 0.020*Phyrexian Dreadnought
+ 0.020*Warren Instigator 
 
 Archetype 38 
  0.038*Mox Diamond
@@ -698,7 +774,9 @@ Archetype 38
  0.023*Dark Depths
  0.023*Thespian's Stage
  0.022*Force of Vigor
- 0.022*Crop Rotation 
+ 0.022*Crop Rotation
+ 0.021*Verdant Catacombs
+ 0.021*Ghost Quarter 
 
 Archetype 39 
  0.199*Dead / Gone
@@ -710,13 +788,15 @@ Archetype 39
  0.029*Magmatic Sinkhole
  0.029*Goblin Charbelcher
  0.027*Bonecrusher Giant
- 0.025*Jwari Disruption
  0.025*Pelakka Predation
+ 0.025*Jwari Disruption
  0.017*Robber of the Rich
  0.014*Snow-Covered Mountain
  0.012*Neheb, Dreadhorde Champion
  0.012*Sudden Demise
- 0.009*Nexus of Fate 
+ 0.009*Nexus of Fate
+ 0.009*Captain Lannery Storm
+ 0.009*Nether Void 
 
 Archetype 40 
  0.057*Pyroblast
@@ -734,7 +814,9 @@ Archetype 40
  0.030*Force of Will
  0.029*Thoughtseize
  0.028*Bloodstained Mire
- 0.028*Ponder 
+ 0.028*Ponder
+ 0.028*Baleful Strix
+ 0.028*Brainstorm 
 
 Archetype 41 
  0.060*Echo of Eons
@@ -752,7 +834,9 @@ Archetype 41
  0.029*Lion's Eye Diamond
  0.028*Wishclaw Talisman
  0.027*Chrome Mox
- 0.027*Polluted Delta 
+ 0.027*Polluted Delta
+ 0.027*Underground Sea
+ 0.027*Dark Ritual 
 
 Archetype 42 
  0.066*Bitterblossom
@@ -764,13 +848,15 @@ Archetype 42
  0.039*Cavern of Souls
  0.036*Unearth
  0.036*True-Name Nemesis
- 0.033*Nighthawk Scavenger
  0.033*Soaring Thought-Thief
+ 0.033*Nighthawk Scavenger
  0.033*Thorn of Amethyst
  0.029*Jace, the Mind Sculptor
  0.028*Inquisition of Kozilek
+ 0.027*Rankle, Master of Pranks
  0.027*Anowon, the Ruin Thief
- 0.027*Thada Adel, Acquisitor 
+ 0.027*Thada Adel, Acquisitor
+ 0.027*Verdant Catacombs 
 
 Archetype 43 
  0.290*Silent Clearing
@@ -788,7 +874,9 @@ Archetype 43
  0.018*Grand Abolisher
  0.013*Oblivion Ring
  0.013*Mother of Runes
- 0.011*Wild Nacatl 
+ 0.011*Wild Nacatl
+ 0.008*Rishadan Port
+ 0.000*Ancient Tomb 
 
 Archetype 44 
  0.214*Dark Petition
@@ -806,7 +894,9 @@ Archetype 44
  0.000*Xantid Swarm
  0.000*Cabal Ritual
  0.000*Lotus Petal
- 0.000*Nicol Bolas, God-Pharaoh 
+ 0.000*Nicol Bolas, God-Pharaoh
+ 0.000*Night of Souls' Betrayal
+ 0.000*Nicol Bolas, Planeswalker 
 
 Archetype 45 
  0.070*Thorn of Amethyst
@@ -824,7 +914,9 @@ Archetype 45
  0.036*Eldrazi Mimic
  0.035*Endless One
  0.035*Eldrazi Temple
- 0.034*Matter Reshaper 
+ 0.034*Matter Reshaper
+ 0.034*Eldrazi Displacer
+ 0.033*Lotus Petal 
 
 Archetype 46 
  0.036*Stifle
@@ -842,7 +934,9 @@ Archetype 46
  0.026*Surgical Extraction
  0.026*Snow-Covered Forest
  0.026*Brainstorm
- 0.026*Lightning Bolt 
+ 0.026*Lightning Bolt
+ 0.026*Snow-Covered Mountain
+ 0.025*Ponder 
 
 Archetype 47 
  0.036*Tropical Island
@@ -860,7 +954,9 @@ Archetype 47
  0.030*Sylvan Library
  0.030*Surgical Extraction
  0.030*Chain Lightning
- 0.029*Polluted Delta 
+ 0.029*Polluted Delta
+ 0.028*Flooded Strand
+ 0.028*Dreadhorde Arcanist 
 
 Archetype 48 
  0.082*Helm of Obedience
@@ -878,7 +974,9 @@ Archetype 48
  0.028*Windswept Heath
  0.025*Sterling Grove
  0.025*Emrakul, the Aeons Torn
- 0.024*Oblivion Ring 
+ 0.024*Oblivion Ring
+ 0.024*Omen of the Sea
+ 0.024*Karakas 
 
 Archetype 49 
  0.048*Pact of Negation
@@ -896,7 +994,9 @@ Archetype 49
  0.039*Lotus Petal
  0.039*Dark Ritual
  0.038*Nature's Claim
- 0.036*Chancellor of the Annex 
+ 0.036*Chancellor of the Annex
+ 0.033*Turntimber Symbiosis
+ 0.032*Summoner's Pact 
 
 Archetype 50 
  0.098*Engineered Explosives
@@ -914,7 +1014,9 @@ Archetype 50
  0.026*Daretti, Ingenious Iconoclast
  0.026*Unmoored Ego
  0.023*Goblin Cratermaker
- 0.018*Meddling Mage 
+ 0.018*Meddling Mage
+ 0.013*Volcanic Island
+ 0.013*Pyroblast 
 
 Archetype 51 
  0.142*Kaya, Orzhov Usurper
@@ -932,7 +1034,9 @@ Archetype 51
  0.025*Mesmeric Fiend
  0.023*Wasteland Strangler
  0.019*Skullcrack
- 0.018*Grim Lavamancer 
+ 0.018*Grim Lavamancer
+ 0.018*Silent Clearing
+ 0.018*Pyroclasm 
 
 Archetype 52 
  0.764*Null Rod
@@ -940,17 +1044,19 @@ Archetype 52
  0.000*Once Upon a Time
  0.000*Snow-Covered Forest
  0.000*Breeding Pool
- 0.000*Skullcrack
- 0.000*Nicol Bolas, Planeswalker
- 0.000*Nicol Bolas, God-Pharaoh
- 0.000*Nicol Bolas, Dragon-God
- 0.000*Cruel Reality
- 0.000*Stubborn Denial
- 0.000*Grand Abolisher
- 0.000*Terror of the Peaks
- 0.000*Tithe
+ 0.000*Notion Thief
  0.000*Shambling Shell
- 0.000*Notion Thief 
+ 0.000*Tithe
+ 0.000*Terror of the Peaks
+ 0.000*Grand Abolisher
+ 0.000*Stubborn Denial
+ 0.000*Cruel Reality
+ 0.000*Nicol Bolas, Dragon-God
+ 0.000*Nicol Bolas, God-Pharaoh
+ 0.000*Nicol Bolas, Planeswalker
+ 0.000*Skullcrack
+ 0.000*Yixlid Jailer
+ 0.000*Searing Blaze 
 
 Archetype 53 
  0.048*Disenchant
@@ -968,7 +1074,9 @@ Archetype 53
  0.030*Force of Will
  0.030*Brainstorm
  0.029*Jace, the Mind Sculptor
- 0.028*Council's Judgment 
+ 0.028*Council's Judgment
+ 0.028*Flusterstorm
+ 0.026*Scalding Tarn 
 
 Archetype 54 
  0.053*Thassa's Oracle
@@ -986,7 +1094,9 @@ Archetype 54
  0.032*Flooded Strand
  0.030*Stoneforge Mystic
  0.030*Recruiter of the Guard
- 0.030*Batterskull 
+ 0.030*Batterskull
+ 0.029*Ponder
+ 0.028*Brainstorm 
 
 Archetype 55 
  0.051*Veil of Summer
@@ -1004,7 +1114,9 @@ Archetype 55
  0.028*Carpet of Flowers
  0.027*Preordain
  0.027*Shared Summons
- 0.026*Impulse 
+ 0.026*Impulse
+ 0.025*Surgical Extraction
+ 0.025*Prismatic Vista 
 
 Archetype 56 
  0.058*Sanctum Prelate
@@ -1022,7 +1134,9 @@ Archetype 56
  0.030*Ancient Ziggurat
  0.029*Unclaimed Territory
  0.029*Thalia's Lieutenant
- 0.029*Champion of the Parish 
+ 0.029*Champion of the Parish
+ 0.028*Containment Priest
+ 0.028*Dismember 
 
 Archetype 57 
  0.191*Swords to Plowshares
@@ -1040,7 +1154,9 @@ Archetype 57
  0.012*Aven Mindcensor
  0.011*Echoing Truth
  0.004*Sublime Epiphany
- 0.000*Prismatic Vista 
+ 0.000*Prismatic Vista
+ 0.000*Flooded Strand
+ 0.000*Impulse 
 
 Archetype 58 
  0.076*Pyroblast
@@ -1058,7 +1174,9 @@ Archetype 58
  0.027*Cling to Dust
  0.023*Pernicious Deed
  0.021*Surgical Extraction
- 0.021*Jace, the Mind Sculptor 
+ 0.021*Jace, the Mind Sculptor
+ 0.020*Weather the Storm
+ 0.020*Karn Liberated 
 
 Archetype 59 
  0.090*Stronghold Gambit
@@ -1076,7 +1194,9 @@ Archetype 59
  0.023*Liliana's Triumph
  0.023*Clip Wings
  0.023*Vito, Thorn of the Dusk Rose
- 0.020*Tormod's Crypt 
+ 0.020*Tormod's Crypt
+ 0.019*Chrome Mox
+ 0.016*Venser, Shaper Savant 
 
 Archetype 60 
  0.181*Reclamation Sage
@@ -1094,7 +1214,9 @@ Archetype 60
  0.025*Sorcerous Spyglass
  0.023*Tropical Island
  0.014*Faerie Macabre
- 0.010*Opposition 
+ 0.010*Opposition
+ 0.009*Thorn of Amethyst
+ 0.008*Forest 
 
 Archetype 61 
  0.069*Ensnaring Bridge
@@ -1112,7 +1234,9 @@ Archetype 61
  0.033*Bonecrusher Giant
  0.033*Tormod's Crypt
  0.033*Fiery Confluence
- 0.032*Chandra, Awakened Inferno 
+ 0.032*Chandra, Awakened Inferno
+ 0.030*Chrome Mox
+ 0.028*Pyroblast 
 
 Archetype 62 
  0.043*Veil of Summer
@@ -1130,7 +1254,9 @@ Archetype 62
  0.032*Lion's Eye Diamond
  0.032*Lotus Petal
  0.031*Brainstorm
- 0.031*Abrupt Decay 
+ 0.031*Abrupt Decay
+ 0.031*Ad Nauseam
+ 0.031*Volcanic Island 
 
 Archetype 63 
  0.072*Grindstone
@@ -1148,7 +1274,9 @@ Archetype 63
  0.027*Ancient Tomb
  0.025*Pithing Needle
  0.024*Abrade
- 0.022*Karn, the Great Creator 
+ 0.022*Karn, the Great Creator
+ 0.022*Soul-Guide Lantern
+ 0.021*Blood Moon 
 
 Archetype 64 
  0.207*Wilt
@@ -1166,7 +1294,9 @@ Archetype 64
  0.014*Syphon Sliver
  0.012*Ill-Gotten Gains
  0.008*Opposition
- 0.000*Veil of Summer 
+ 0.000*Veil of Summer
+ 0.000*Tropical Island
+ 0.000*Surgical Extraction 
 
 Archetype 65 
  0.053*Thought-Knot Seer
@@ -1184,7 +1314,9 @@ Archetype 65
  0.032*City of Traitors
  0.030*Dismember
  0.029*Matter Reshaper
- 0.029*Blast Zone 
+ 0.029*Blast Zone
+ 0.028*Urborg, Tomb of Yawgmoth
+ 0.028*Cavern of Souls 
 
 Archetype 66 
  0.093*Mountain
@@ -1202,7 +1334,9 @@ Archetype 66
  0.031*Lava Dart
  0.031*Soul-Scar Mage
  0.030*Ravenous Trap
- 0.029*Manamorphose 
+ 0.029*Manamorphose
+ 0.027*Mothdust Changeling
+ 0.020*Alpine Moon 
 
 Archetype 67 
  0.072*Hullbreacher
@@ -1220,7 +1354,9 @@ Archetype 67
  0.027*Flusterstorm
  0.025*Submerge
  0.025*Snow-Covered Island
- 0.024*Engineered Explosives 
+ 0.024*Engineered Explosives
+ 0.023*Dismember
+ 0.022*Jace, the Mind Sculptor 
 
 Archetype 68 
  0.149*Zealous Persecution
@@ -1230,15 +1366,17 @@ Archetype 68
  0.075*Stormchaser Mage
  0.075*Tsabo's Web
  0.040*Natural State
- 0.000*Force of Negation
  0.000*Surgical Extraction
  0.000*Mystical Dispute
  0.000*Oko, Thief of Crowns
- 0.000*Cruel Reality
+ 0.000*Force of Negation
  0.000*Stubborn Denial
+ 0.000*Yixlid Jailer
  0.000*Breeding Pool
  0.000*Notion Thief
- 0.000*Nicol Bolas, God-Pharaoh 
+ 0.000*Nicol Bolas, God-Pharaoh
+ 0.000*Cruel Reality
+ 0.000*Terror of the Peaks 
 
 Archetype 69 
  0.042*Abrupt Decay
@@ -1256,7 +1394,9 @@ Archetype 69
  0.029*Misty Rainforest
  0.028*Fatal Push
  0.027*Force of Negation
- 0.025*Wasteland 
+ 0.025*Wasteland
+ 0.024*Sylvan Library
+ 0.023*Surgical Extraction 
 
 Archetype 70 
  0.164*Basilisk Collar
@@ -1266,15 +1406,17 @@ Archetype 70
  0.054*Spell Queller
  0.035*Gemrazer
  0.032*The Royal Scions
- 0.027*Drogskol Captain
  0.027*Supreme Phantom
+ 0.027*Drogskol Captain
  0.027*Mausoleum Wanderer
  0.025*Surgical Extraction
  0.019*Izzet Staticaster
  0.019*Moorland Haunt
  0.019*Unsettled Mariner
  0.019*Rattlechains
- 0.019*Radha, Heart of Keld 
+ 0.019*Radha, Heart of Keld
+ 0.017*Mishra's Factory
+ 0.016*Hibernation 
 
 Archetype 71 
  0.154*Elvish Mystic
@@ -1292,7 +1434,9 @@ Archetype 71
  0.018*Relic of Progenitus
  0.014*Carpet of Flowers
  0.000*Forest
- 0.000*Savannah 
+ 0.000*Savannah
+ 0.000*Abrupt Decay
+ 0.000*Karakas 
 
 Archetype 72 
  0.068*Chalice of the Void
@@ -1310,7 +1454,9 @@ Archetype 72
  0.028*Eldrazi Displacer
  0.028*Palace Jailer
  0.027*Rest in Peace
- 0.026*Disenchant 
+ 0.026*Disenchant
+ 0.025*Wasteland
+ 0.023*Swords to Plowshares 
 
 Archetype 73 
  0.055*Green Sun's Zenith
@@ -1328,4 +1474,6 @@ Archetype 73
  0.025*Knight of Autumn
  0.023*Ramunap Excavator
  0.022*Forest
- 0.021*Questing Beast 
+ 0.021*Questing Beast
+ 0.019*Verdant Catacombs
+ 0.019*Gaddock Teeg 
